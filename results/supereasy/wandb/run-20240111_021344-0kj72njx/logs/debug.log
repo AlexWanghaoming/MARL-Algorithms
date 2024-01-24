@@ -1,0 +1,28 @@
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Current SDK version is 0.16.1
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Configure stats pid to 249617
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Loading settings from /home/wanghm/.config/wandb/settings
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Loading settings from /alpha/MARL-Algorithms/wandb/settings
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-01-11 02:13:44,382 INFO    MainThread:249617 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'run_qmix3.py', 'program_abspath': '/alpha/MARL-Algorithms/run_qmix3.py', 'program': '/alpha/MARL-Algorithms/run_qmix3.py'}
+2024-01-11 02:13:44,383 INFO    MainThread:249617 [wandb_init.py:_log_setup():524] Logging user logs to /alpha/MARL-Algorithms/results/supereasy/wandb/run-20240111_021344-0kj72njx/logs/debug.log
+2024-01-11 02:13:44,383 INFO    MainThread:249617 [wandb_init.py:_log_setup():525] Logging internal logs to /alpha/MARL-Algorithms/results/supereasy/wandb/run-20240111_021344-0kj72njx/logs/debug-internal.log
+2024-01-11 02:13:44,383 INFO    MainThread:249617 [wandb_init.py:init():564] calling init triggers
+2024-01-11 02:13:44,383 INFO    MainThread:249617 [wandb_init.py:init():572] wandb.init called with sweep_config: {}
+config: {'map': 'supereasy', 'seed': 123, 'step_mul': 8, 'replay_dir': '', 'alg': 'qmix', 'n_steps': 2000000.0, 'reward_shaping_horizon': 500000.0, 'n_episodes': 1, 'last_action': True, 'reuse_network': False, 'gamma': 0.99, 'optimizer': 'adam', 'evaluate_cycle': 5000, 'evaluate_epoch': 20, 'model_dir': './model', 'result_dir': './result', 'load_model': False, 'evaluate': False, 'cuda': False, 'use_rnn': True, 'use_wandb': True, 'rnn_hidden_dim': 128, 'qmix_hidden_dim': 64, 'two_hyper_layers': False, 'hyper_hidden_dim': 256, 'qtran_hidden_dim': 64, 'lr': 0.0005, 'epsilon': 1, 'min_epsilon': 0.05, 'anneal_epsilon': 9.499999999999999e-07, 'epsilon_anneal_scale': 'step', 'train_steps': 1, 'batch_size': 32, 'buffer_size': 5000, 'save_cycle': 5000, 'target_update_cycle': 200, 'lambda_opt': 1, 'lambda_nopt': 1, 'grad_norm_clip': 10, 'noise_dim': 16, 'lambda_mi': 0.001, 'lambda_ql': 1, 'entropy_coefficient': 0.001, 'n_actions': 6, 'n_agents': 2, 'state_shape': 170, 'obs_shape': 85, 'episode_limit': 601}
+2024-01-11 02:13:44,383 INFO    MainThread:249617 [wandb_init.py:init():614] starting backend
+2024-01-11 02:13:44,383 INFO    MainThread:249617 [wandb_init.py:init():618] setting up manager
+2024-01-11 02:13:44,384 INFO    MainThread:249617 [backend.py:_multiprocessing_setup():107] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-01-11 02:13:44,385 INFO    MainThread:249617 [wandb_init.py:init():624] backend started and connected
+2024-01-11 02:13:44,388 INFO    MainThread:249617 [wandb_init.py:init():716] updated telemetry
+2024-01-11 02:13:44,422 INFO    MainThread:249617 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2024-01-11 02:13:45,277 INFO    MainThread:249617 [wandb_run.py:_on_init():2254] communicating current version
+2024-01-11 02:13:45,546 INFO    MainThread:249617 [wandb_run.py:_on_init():2263] got version response upgrade_message: "wandb version 0.16.2 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-01-11 02:13:45,546 INFO    MainThread:249617 [wandb_init.py:init():800] starting run threads in backend
+2024-01-11 02:14:00,190 INFO    MainThread:249617 [wandb_run.py:_console_start():2233] atexit reg
+2024-01-11 02:14:00,191 INFO    MainThread:249617 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2024-01-11 02:14:00,191 INFO    MainThread:249617 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2024-01-11 02:14:00,191 INFO    MainThread:249617 [wandb_run.py:_redirect():2178] Redirects installed.
+2024-01-11 02:14:00,191 INFO    MainThread:249617 [wandb_init.py:init():841] run started, returning control to user process
+2024-01-11 09:16:33,138 WARNING MsgRouterThr:249617 [router.py:message_loop():77] message_loop has been closed

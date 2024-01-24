@@ -1,0 +1,1 @@
+{"episode_reward": 0.0, "step": 10000039, "_timestamp": 1704994075.9684238, "_runtime": 16684.153335809708, "_step": 33277, "loss": 0.9639906883239746, "q_total_mean": 33.83026336314476, "target_total_mean": 33.73038425540766, "_wandb": {"runtime": 16683}}

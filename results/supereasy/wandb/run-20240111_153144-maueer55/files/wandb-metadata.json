@@ -1,0 +1,128 @@
+{
+    "os": "Linux-6.5.0-14-generic-x86_64-with-debian-bookworm-sid",
+    "python": "3.7.12",
+    "heartbeatAt": "2024-01-11T07:31:45.258042",
+    "startedAt": "2024-01-11T07:31:44.074877",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/alpha/MARL-Algorithms/run_qmix3.py",
+    "codePathLocal": "run_qmix3.py",
+    "codePath": "run_qmix3.py",
+    "git": {
+        "remote": "https://github.com/starry-sky6688/MARL-Algorithms.git",
+        "commit": "e9e32e122f1b25e1139b82bebbb7ed81dc1e2320"
+    },
+    "email": "568019240@qq.com",
+    "root": "/alpha/MARL-Algorithms",
+    "host": "wanghm",
+    "username": "wanghm",
+    "executable": "/home/wanghm/anaconda3/envs/hsp/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4606.1916875,
+        "min": 800.0,
+        "max": 5150.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4874.665,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4827.611,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4887.035,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4898.112,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4892.253,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 4877.546,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 4898.973,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4801.374,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4886.239,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4794.11,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4770.967,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4899.132,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 4880.528,
+            "min": 800.0,
+            "max": 5300.0
+        },
+        {
+            "current": 4839.674,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4870.848,
+            "min": 800.0,
+            "max": 5100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1832.2072448730469,
+            "used": 198.26520538330078
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        }
+    ],
+    "memory": {
+        "total": 62.61588668823242
+    }
+}

@@ -43,8 +43,11 @@ class Agents:
 
     def choose_action(self, obs, last_action, agent_num, avail_actions, epsilon, maven_z=None):
         inputs = obs.copy()
-        avail_actions_ind = np.nonzero(avail_actions)[0]  # index of actions which can be choose
-
+        if avail_actions is not None:
+            avail_actions_ind = np.nonzero(avail_actions)[0]  # index of actions which can be choose
+            avail_actions = torch.tensor(avail_actions, dtype=torch.float32).unsqueeze(0)
+        else:
+            avail_actions_ind = 6
         # transform agent_num to onehot vector
         agent_id = np.zeros(self.n_agents)
         agent_id[agent_num] = 1.
@@ -57,7 +60,7 @@ class Agents:
 
         # transform the shape of inputs from (42,) to (1,42)
         inputs = torch.tensor(inputs, dtype=torch.float32).unsqueeze(0)
-        avail_actions = torch.tensor(avail_actions, dtype=torch.float32).unsqueeze(0)
+
         if self.args.cuda:
             inputs = inputs.cuda()
             hidden_state = hidden_state.cuda()
@@ -75,7 +78,8 @@ class Agents:
         if self.args.alg == 'coma' or self.args.alg == 'central_v' or self.args.alg == 'reinforce':
             action = self._choose_action_from_softmax(q_value.cpu(), avail_actions, epsilon)
         else:
-            q_value[avail_actions == 0.0] = - float("inf")
+            if avail_actions is not None:
+                q_value[avail_actions == 0.0] = - float("inf")
             if np.random.uniform() < epsilon:
                 action = np.random.choice(avail_actions_ind)  # action是一个整数
             else:
@@ -115,14 +119,14 @@ class Agents:
             max_episode_len = self.args.episode_limit
         return max_episode_len
 
-    def train(self, batch, train_step, epsilon=None):  # coma needs epsilon for training
+    def train(self, batch, train_step, timesteps, epsilon=None):  # coma needs epsilon for training
 
         # different episode has different length, so we need to get max length of the batch
         max_episode_len = self._get_max_episode_len(batch)
         for key in batch.keys():
             if key != 'z':
                 batch[key] = batch[key][:, :max_episode_len]
-        self.policy.learn(batch, max_episode_len, train_step, epsilon)
+        self.policy.learn(batch, max_episode_len, train_step, timesteps, epsilon)
         if train_step > 0 and train_step % self.args.save_cycle == 0:
             self.policy.save_model(train_step)
 

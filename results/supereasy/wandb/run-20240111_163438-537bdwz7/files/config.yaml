@@ -1,0 +1,171 @@
+wandb_version: 1
+
+map:
+  desc: null
+  value: supereasy
+seed:
+  desc: null
+  value: 123
+step_mul:
+  desc: null
+  value: 8
+replay_dir:
+  desc: null
+  value: ''
+alg:
+  desc: null
+  value: qmix
+n_steps:
+  desc: null
+  value: 10000000.0
+reward_shaping_horizon:
+  desc: null
+  value: 2500000.0
+n_episodes:
+  desc: null
+  value: 1
+last_action:
+  desc: null
+  value: true
+reuse_network:
+  desc: null
+  value: false
+gamma:
+  desc: null
+  value: 0.99
+optimizer:
+  desc: null
+  value: adam
+evaluate_cycle:
+  desc: null
+  value: 5000
+evaluate_epoch:
+  desc: null
+  value: 20
+model_dir:
+  desc: null
+  value: ./model
+result_dir:
+  desc: null
+  value: ./result
+load_model:
+  desc: null
+  value: false
+evaluate:
+  desc: null
+  value: false
+cuda:
+  desc: null
+  value: false
+use_rnn:
+  desc: null
+  value: false
+use_wandb:
+  desc: null
+  value: true
+rnn_hidden_dim:
+  desc: null
+  value: 128
+qmix_hidden_dim:
+  desc: null
+  value: 64
+two_hyper_layers:
+  desc: null
+  value: true
+hyper_hidden_dim:
+  desc: null
+  value: 64
+qtran_hidden_dim:
+  desc: null
+  value: 64
+lr:
+  desc: null
+  value: 0.0008
+epsilon:
+  desc: null
+  value: 1
+min_epsilon:
+  desc: null
+  value: 0.05
+anneal_epsilon:
+  desc: null
+  value: 1.8999999999999998e-07
+epsilon_anneal_scale:
+  desc: null
+  value: step
+train_steps:
+  desc: null
+  value: 1
+batch_size:
+  desc: null
+  value: 32
+buffer_size:
+  desc: null
+  value: 10000
+save_cycle:
+  desc: null
+  value: 5000
+target_update_cycle:
+  desc: null
+  value: 200
+lambda_opt:
+  desc: null
+  value: 1
+lambda_nopt:
+  desc: null
+  value: 1
+grad_norm_clip:
+  desc: null
+  value: 10
+noise_dim:
+  desc: null
+  value: 16
+lambda_mi:
+  desc: null
+  value: 0.001
+lambda_ql:
+  desc: null
+  value: 1
+entropy_coefficient:
+  desc: null
+  value: 0.001
+n_actions:
+  desc: null
+  value: 6
+n_agents:
+  desc: null
+  value: 2
+state_shape:
+  desc: null
+  value: 170
+obs_shape:
+  desc: null
+  value: 85
+episode_limit:
+  desc: null
+  value: 601
+_wandb:
+  desc: null
+  value:
+    python_version: 3.7.12
+    cli_version: 0.16.1
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1704962078.926501
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.7.12
+      5: 0.16.1
+      8:
+      - 5
+      13: linux-x86_64

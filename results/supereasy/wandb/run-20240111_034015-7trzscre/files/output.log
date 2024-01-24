@@ -1,0 +1,4985 @@
+Init alg QMIX
+Init RolloutWorker
+Run 1, time_steps 0
+reward: 2.5000000000000004
+Run 1, time_steps 601
+reward: 1.8
+Run 1, time_steps 1202
+reward: 1.2
+Run 1, time_steps 1803
+reward: 1.8
+Run 1, time_steps 2404
+reward: 1.2
+Run 1, time_steps 3005
+reward: 1.2
+Run 1, time_steps 3606
+reward: 16.2
+Run 1, time_steps 4207
+reward: 1.2
+Run 1, time_steps 4808
+reward: 1.8
+Run 1, time_steps 5409
+reward: 37.400000000000006
+Run 1, time_steps 6010
+reward: 0.7
+Run 1, time_steps 6611
+reward: 11.2
+Run 1, time_steps 7212
+reward: 87.4
+Run 1, time_steps 7813
+reward: 1.2
+Run 1, time_steps 8414
+reward: 1.2
+Run 1, time_steps 9015
+reward: 97.4
+Run 1, time_steps 9616
+reward: 26.8
+Run 1, time_steps 10217
+reward: 1.8
+Run 1, time_steps 10818
+reward: 31.8
+Run 1, time_steps 11419
+reward: 1.2
+Run 1, time_steps 12020
+reward: 1.2
+Run 1, time_steps 12621
+reward: 1.2
+Run 1, time_steps 13222
+reward: 1.2
+Run 1, time_steps 13823
+reward: 11.8
+Run 1, time_steps 14424
+reward: 2.4000000000000004
+Run 1, time_steps 15025
+reward: 1.2
+Run 1, time_steps 15626
+reward: 1.2
+Run 1, time_steps 16227
+reward: 1.8
+Run 1, time_steps 16828
+reward: 1.2
+Run 1, time_steps 17429
+reward: 1.8
+Run 1, time_steps 18030
+reward: 46.800000000000004
+Run 1, time_steps 18631
+reward: 2.4000000000000004
+Run 1, time_steps 19232
+reward: 1.2
+Run 1, time_steps 19833
+reward: 36.8
+Run 1, time_steps 20434
+reward: 1.2
+Run 1, time_steps 21035
+reward: 1.2
+Run 1, time_steps 21636
+reward: 1.8
+Run 1, time_steps 22237
+reward: 0.1
+Run 1, time_steps 22838
+reward: 0.6
+Run 1, time_steps 23439
+reward: 1.2
+Run 1, time_steps 24040
+reward: 1.8
+Run 1, time_steps 24641
+reward: 1.2
+Run 1, time_steps 25242
+reward: 0.6
+Run 1, time_steps 25843
+reward: 1.2
+Run 1, time_steps 26444
+reward: 0.7
+Run 1, time_steps 27045
+reward: 1.2
+Run 1, time_steps 27646
+reward: 31.8
+Run 1, time_steps 28247
+reward: 0.6
+Run 1, time_steps 28848
+reward: 1.2
+Run 1, time_steps 29449
+reward: 32.400000000000006
+Run 1, time_steps 30050
+reward: 0.6
+Run 1, time_steps 30651
+reward: 0.6
+Run 1, time_steps 31252
+reward: 1.2
+Run 1, time_steps 31853
+reward: 16.2
+Run 1, time_steps 32454
+reward: 1.2
+Run 1, time_steps 33055
+
+reward: 1.8
+Run 1, time_steps 33656
+reward: 1.2
+Run 1, time_steps 34257
+reward: 0.6
+Run 1, time_steps 34858
+reward: 117.99999999999999
+Run 1, time_steps 35459
+reward: 1.3
+Run 1, time_steps 36060
+reward: 1.2
+Run 1, time_steps 36661
+reward: 1.2
+Run 1, time_steps 37262
+reward: 1.8
+Run 1, time_steps 37863
+reward: 1.2
+Run 1, time_steps 38464
+reward: 1.2
+Run 1, time_steps 39065
+reward: 1.2
+Run 1, time_steps 39666
+reward: 1.2
+Run 1, time_steps 40267
+reward: 1.2
+Run 1, time_steps 40868
+reward: 12.4
+Run 1, time_steps 41469
+reward: 21.8
+Run 1, time_steps 42070
+reward: 1.2
+Run 1, time_steps 42671
+reward: 81.2
+Run 1, time_steps 43272
+reward: 0.6
+Run 1, time_steps 43873
+reward: 1.8
+Run 1, time_steps 44474
+reward: 1.3
+Run 1, time_steps 45075
+reward: 0.6
+Run 1, time_steps 45676
+reward: 1.2
+Run 1, time_steps 46277
+reward: 0.6
+Run 1, time_steps 46878
+reward: 1.8
+Run 1, time_steps 47479
+reward: 0.6
+Run 1, time_steps 48080
+reward: 1.2
+Run 1, time_steps 48681
+reward: 1.2
+Run 1, time_steps 49282
+reward: 1.8
+Run 1, time_steps 49883
+reward: 1.8
+Run 1, time_steps 50484
+reward: 11.2
+Run 1, time_steps 51085
+reward: 1.2
+Run 1, time_steps 51686
+reward: 0.6
+Run 1, time_steps 52287
+reward: 0.6
+Run 1, time_steps 52888
+reward: 0.6
+Run 1, time_steps 53489
+reward: 1.8
+Run 1, time_steps 54090
+reward: 1.2
+Run 1, time_steps 54691
+reward: 0.1
+Run 1, time_steps 55292
+reward: 0.6
+Run 1, time_steps 55893
+reward: 1.2
+Run 1, time_steps 56494
+reward: 1.8
+Run 1, time_steps 57095
+reward: 0.0
+Run 1, time_steps 57696
+reward: 1.2
+Run 1, time_steps 58297
+reward: 1.2
+Run 1, time_steps 58898
+reward: 0.6
+Run 1, time_steps 59499
+reward: 0.6
+Run 1, time_steps 60100
+reward: 0.0
+Run 1, time_steps 60701
+reward: 0.6
+Run 1, time_steps 61302
+reward: 1.2
+Run 1, time_steps 61903
+reward: 1.8
+Run 1, time_steps 62504
+reward: 0.6
+Run 1, time_steps 63105
+reward: 1.2
+Run 1, time_steps 63706
+reward: 0.6
+Run 1, time_steps 64307
+reward: 0.6
+Run 1, time_steps 64908
+reward: 0.6
+Run 1, time_steps 65509
+reward: 46.8
+Run 1, time_steps 66110
+reward: 0.6
+Run 1, time_steps 66711
+reward: 1.2
+Run 1, time_steps 67312
+reward: 1.2
+Run 1, time_steps 67913
+reward: 0.6
+Run 1, time_steps 68514
+reward: 1.2
+Run 1, time_steps 69115
+reward: 0.7
+Run 1, time_steps 69716
+reward: 1.2
+Run 1, time_steps 70317
+reward: 0.0
+Run 1, time_steps 70918
+reward: 1.2
+Run 1, time_steps 71519
+reward: 0.0
+Run 1, time_steps 72120
+reward: 1.3
+Run 1, time_steps 72721
+reward: 0.6
+Run 1, time_steps 73322
+reward: 1.2
+Run 1, time_steps 73923
+reward: 0.6
+Run 1, time_steps 74524
+reward: 0.0
+Run 1, time_steps 75125
+reward: 1.2
+Run 1, time_steps 75726
+reward: 0.1
+Run 1, time_steps 76327
+reward: 0.6
+Run 1, time_steps 76928
+reward: 0.0
+Run 1, time_steps 77529
+reward: 0.0
+Run 1, time_steps 78130
+reward: 0.1
+Run 1, time_steps 78731
+reward: 0.0
+Run 1, time_steps 79332
+reward: 1.2
+Run 1, time_steps 79933
+reward: 1.2
+Run 1, time_steps 80534
+reward: 0.0
+Run 1, time_steps 81135
+reward: 0.6
+Run 1, time_steps 81736
+reward: 0.1
+Run 1, time_steps 82337
+reward: 0.0
+Run 1, time_steps 82938
+reward: 1.2
+Run 1, time_steps 83539
+reward: 1.2
+Run 1, time_steps 84140
+reward: 0.0
+Run 1, time_steps 84741
+reward: 0.6
+Run 1, time_steps 85342
+reward: 1.2
+Run 1, time_steps 85943
+reward: 0.0
+Run 1, time_steps 86544
+reward: 0.6
+Run 1, time_steps 87145
+reward: 0.0
+Run 1, time_steps 87746
+reward: 0.0
+Run 1, time_steps 88347
+reward: 0.6
+Run 1, time_steps 88948
+reward: 0.6
+Run 1, time_steps 89549
+reward: 1.2
+Run 1, time_steps 90150
+reward: 0.6
+Run 1, time_steps 90751
+reward: 0.6
+Run 1, time_steps 91352
+reward: 0.0
+Run 1, time_steps 91953
+reward: 0.1
+Run 1, time_steps 92554
+reward: 0.0
+Run 1, time_steps 93155
+reward: 0.1
+Run 1, time_steps 93756
+reward: 0.0
+Run 1, time_steps 94357
+reward: 0.0
+Run 1, time_steps 94958
+reward: 0.1
+Run 1, time_steps 95559
+reward: 0.1
+Run 1, time_steps 96160
+reward: 0.1
+Run 1, time_steps 96761
+reward: 0.1
+Run 1, time_steps 97362
+reward: 0.0
+Run 1, time_steps 97963
+reward: 0.0
+Run 1, time_steps 98564
+reward: 0.6
+Run 1, time_steps 99165
+reward: 0.0
+Run 1, time_steps 99766
+reward: 0.0
+Run 1, time_steps 100367
+reward: 1.2
+Run 1, time_steps 100968
+reward: 0.1
+Run 1, time_steps 101569
+reward: 0.0
+Run 1, time_steps 102170
+reward: 0.0
+Run 1, time_steps 102771
+reward: 0.0
+Run 1, time_steps 103372
+reward: 0.0
+Run 1, time_steps 103973
+reward: 0.0
+Run 1, time_steps 104574
+reward: 0.0
+Run 1, time_steps 105175
+reward: 0.0
+Run 1, time_steps 105776
+reward: 0.0
+Run 1, time_steps 106377
+reward: 0.0
+Run 1, time_steps 106978
+reward: 0.0
+Run 1, time_steps 107579
+reward: 0.6
+Run 1, time_steps 108180
+reward: 0.0
+Run 1, time_steps 108781
+reward: 0.0
+Run 1, time_steps 109382
+reward: 0.6
+Run 1, time_steps 109983
+reward: 0.0
+Run 1, time_steps 110584
+reward: 0.0
+Run 1, time_steps 111185
+reward: 0.6
+Run 1, time_steps 111786
+reward: 0.1
+Run 1, time_steps 112387
+reward: 0.0
+Run 1, time_steps 112988
+reward: 0.0
+Run 1, time_steps 113589
+reward: 0.0
+Run 1, time_steps 114190
+
+reward: 0.0
+Run 1, time_steps 114791
+reward: 0.0
+Run 1, time_steps 115392
+reward: 0.0
+Run 1, time_steps 115993
+reward: 0.0
+Run 1, time_steps 116594
+reward: 0.0
+Run 1, time_steps 117195
+reward: 0.0
+Run 1, time_steps 117796
+reward: 0.1
+Run 1, time_steps 118397
+reward: 0.0
+Run 1, time_steps 118998
+reward: 0.0
+Run 1, time_steps 119599
+reward: 0.6
+Run 1, time_steps 120200
+reward: 0.0
+Run 1, time_steps 120801
+reward: 0.1
+Run 1, time_steps 121402
+reward: 0.0
+Run 1, time_steps 122003
+reward: 0.1
+Run 1, time_steps 122604
+reward: 0.0
+Run 1, time_steps 123205
+reward: 0.0
+Run 1, time_steps 123806
+reward: 0.0
+Run 1, time_steps 124407
+reward: 0.0
+Run 1, time_steps 125008
+reward: 0.0
+Run 1, time_steps 125609
+reward: 0.0
+Run 1, time_steps 126210
+reward: 0.0
+Run 1, time_steps 126811
+reward: 0.0
+Run 1, time_steps 127412
+reward: 0.0
+Run 1, time_steps 128013
+reward: 0.0
+Run 1, time_steps 128614
+reward: 0.0
+Run 1, time_steps 129215
+reward: 0.0
+Run 1, time_steps 129816
+reward: 0.0
+Run 1, time_steps 130417
+reward: 0.0
+Run 1, time_steps 131018
+reward: 0.0
+Run 1, time_steps 131619
+reward: 0.0
+Run 1, time_steps 132220
+reward: 0.0
+Run 1, time_steps 132821
+reward: 0.0
+Run 1, time_steps 133422
+reward: 0.0
+Run 1, time_steps 134023
+reward: 0.0
+Run 1, time_steps 134624
+reward: 0.0
+Run 1, time_steps 135225
+reward: 0.0
+Run 1, time_steps 135826
+reward: 0.0
+Run 1, time_steps 136427
+reward: 0.0
+Run 1, time_steps 137028
+reward: 0.0
+Run 1, time_steps 137629
+reward: 0.0
+Run 1, time_steps 138230
+reward: 0.0
+Run 1, time_steps 138831
+reward: 0.0
+Run 1, time_steps 139432
+reward: 0.0
+Run 1, time_steps 140033
+reward: 0.0
+Run 1, time_steps 140634
+reward: 0.1
+Run 1, time_steps 141235
+reward: 0.0
+Run 1, time_steps 141836
+reward: 0.0
+Run 1, time_steps 142437
+reward: 0.0
+Run 1, time_steps 143038
+reward: 0.0
+Run 1, time_steps 143639
+reward: 0.6
+Run 1, time_steps 144240
+reward: 0.0
+Run 1, time_steps 144841
+reward: 0.0
+Run 1, time_steps 145442
+reward: 0.0
+Run 1, time_steps 146043
+reward: 0.0
+Run 1, time_steps 146644
+reward: 0.0
+Run 1, time_steps 147245
+reward: 0.0
+Run 1, time_steps 147846
+reward: 0.0
+Run 1, time_steps 148447
+reward: 0.0
+Run 1, time_steps 149048
+reward: 0.0
+Run 1, time_steps 149649
+reward: 0.0
+Run 1, time_steps 150250
+reward: 0.0
+Run 1, time_steps 150851
+reward: 0.0
+Run 1, time_steps 151452
+reward: 0.0
+Run 1, time_steps 152053
+reward: 0.0
+Run 1, time_steps 152654
+reward: 0.0
+Run 1, time_steps 153255
+reward: 0.0
+Run 1, time_steps 153856
+reward: 0.0
+Run 1, time_steps 154457
+reward: 0.0
+Run 1, time_steps 155058
+reward: 0.0
+Run 1, time_steps 155659
+reward: 0.0
+Run 1, time_steps 156260
+reward: 0.0
+Run 1, time_steps 156861
+reward: 0.0
+Run 1, time_steps 157462
+reward: 0.0
+Run 1, time_steps 158063
+reward: 0.0
+Run 1, time_steps 158664
+reward: 0.0
+Run 1, time_steps 159265
+reward: 0.0
+Run 1, time_steps 159866
+reward: 0.0
+Run 1, time_steps 160467
+reward: 0.0
+Run 1, time_steps 161068
+reward: 0.0
+Run 1, time_steps 161669
+reward: 0.0
+Run 1, time_steps 162270
+reward: 0.0
+Run 1, time_steps 162871
+reward: 0.0
+Run 1, time_steps 163472
+reward: 0.0
+Run 1, time_steps 164073
+reward: 0.0
+Run 1, time_steps 164674
+reward: 0.0
+Run 1, time_steps 165275
+reward: 0.0
+Run 1, time_steps 165876
+reward: 0.1
+Run 1, time_steps 166477
+reward: 0.6
+Run 1, time_steps 167078
+reward: 0.0
+Run 1, time_steps 167679
+reward: 0.0
+Run 1, time_steps 168280
+reward: 0.0
+Run 1, time_steps 168881
+reward: 0.0
+Run 1, time_steps 169482
+reward: 0.0
+Run 1, time_steps 170083
+reward: 0.0
+Run 1, time_steps 170684
+reward: 0.0
+Run 1, time_steps 171285
+reward: 0.0
+Run 1, time_steps 171886
+reward: 0.0
+Run 1, time_steps 172487
+reward: 0.0
+Run 1, time_steps 173088
+reward: 0.0
+Run 1, time_steps 173689
+reward: 0.0
+Run 1, time_steps 174290
+reward: 0.0
+Run 1, time_steps 174891
+reward: 0.0
+Run 1, time_steps 175492
+reward: 0.0
+Run 1, time_steps 176093
+reward: 0.0
+Run 1, time_steps 176694
+reward: 0.0
+Run 1, time_steps 177295
+reward: 0.0
+Run 1, time_steps 177896
+reward: 0.0
+Run 1, time_steps 178497
+reward: 0.0
+Run 1, time_steps 179098
+reward: 0.0
+Run 1, time_steps 179699
+reward: 0.1
+Run 1, time_steps 180300
+reward: 0.0
+Run 1, time_steps 180901
+reward: 0.0
+Run 1, time_steps 181502
+reward: 0.0
+Run 1, time_steps 182103
+reward: 0.0
+Run 1, time_steps 182704
+reward: 0.0
+Run 1, time_steps 183305
+reward: 0.0
+Run 1, time_steps 183906
+reward: 0.0
+Run 1, time_steps 184507
+reward: 0.0
+Run 1, time_steps 185108
+reward: 0.0
+Run 1, time_steps 185709
+reward: 0.0
+Run 1, time_steps 186310
+reward: 0.0
+Run 1, time_steps 186911
+reward: 0.0
+Run 1, time_steps 187512
+reward: 0.0
+Run 1, time_steps 188113
+reward: 0.0
+Run 1, time_steps 188714
+reward: 0.0
+Run 1, time_steps 189315
+reward: 0.0
+Run 1, time_steps 189916
+reward: 0.0
+Run 1, time_steps 190517
+reward: 0.0
+Run 1, time_steps 191118
+reward: 0.0
+Run 1, time_steps 191719
+reward: 0.0
+Run 1, time_steps 192320
+reward: 0.0
+Run 1, time_steps 192921
+reward: 0.0
+Run 1, time_steps 193522
+reward: 0.0
+Run 1, time_steps 194123
+reward: 0.1
+Run 1, time_steps 194724
+reward: 0.0
+Run 1, time_steps 195325
+reward: 0.0
+Run 1, time_steps 195926
+reward: 0.0
+Run 1, time_steps 196527
+reward: 0.0
+Run 1, time_steps 197128
+reward: 0.1
+Run 1, time_steps 197729
+reward: 0.0
+Run 1, time_steps 198330
+reward: 0.0
+Run 1, time_steps 198931
+reward: 0.0
+Run 1, time_steps 199532
+reward: 0.0
+Run 1, time_steps 200133
+reward: 0.0
+Run 1, time_steps 200734
+reward: 0.0
+Run 1, time_steps 201335
+reward: 0.0
+Run 1, time_steps 201936
+
+reward: 0.0
+Run 1, time_steps 202537
+reward: 0.0
+Run 1, time_steps 203138
+reward: 0.0
+Run 1, time_steps 203739
+reward: 0.0
+Run 1, time_steps 204340
+reward: 0.0
+Run 1, time_steps 204941
+reward: 0.0
+Run 1, time_steps 205542
+reward: 0.0
+Run 1, time_steps 206143
+reward: 0.1
+Run 1, time_steps 206744
+reward: 0.0
+Run 1, time_steps 207345
+reward: 0.0
+Run 1, time_steps 207946
+reward: 0.0
+Run 1, time_steps 208547
+reward: 0.0
+Run 1, time_steps 209148
+reward: 0.0
+Run 1, time_steps 209749
+reward: 0.0
+Run 1, time_steps 210350
+reward: 0.0
+Run 1, time_steps 210951
+reward: 0.1
+Run 1, time_steps 211552
+reward: 0.0
+Run 1, time_steps 212153
+reward: 0.0
+Run 1, time_steps 212754
+reward: 0.0
+Run 1, time_steps 213355
+reward: 0.0
+Run 1, time_steps 213956
+reward: 0.0
+Run 1, time_steps 214557
+reward: 0.0
+Run 1, time_steps 215158
+reward: 0.0
+Run 1, time_steps 215759
+reward: 0.0
+Run 1, time_steps 216360
+reward: 0.0
+Run 1, time_steps 216961
+reward: 0.0
+Run 1, time_steps 217562
+reward: 0.0
+Run 1, time_steps 218163
+reward: 0.0
+Run 1, time_steps 218764
+reward: 0.0
+Run 1, time_steps 219365
+reward: 0.0
+Run 1, time_steps 219966
+reward: 0.0
+Run 1, time_steps 220567
+reward: 0.0
+Run 1, time_steps 221168
+reward: 0.0
+Run 1, time_steps 221769
+reward: 0.0
+Run 1, time_steps 222370
+reward: 0.0
+Run 1, time_steps 222971
+reward: 0.0
+Run 1, time_steps 223572
+reward: 0.0
+Run 1, time_steps 224173
+reward: 0.0
+Run 1, time_steps 224774
+reward: 0.0
+Run 1, time_steps 225375
+reward: 0.0
+Run 1, time_steps 225976
+reward: 0.0
+Run 1, time_steps 226577
+reward: 0.0
+Run 1, time_steps 227178
+reward: 0.0
+Run 1, time_steps 227779
+reward: 0.0
+Run 1, time_steps 228380
+reward: 0.0
+Run 1, time_steps 228981
+reward: 0.0
+Run 1, time_steps 229582
+reward: 0.0
+Run 1, time_steps 230183
+reward: 0.0
+Run 1, time_steps 230784
+reward: 0.0
+Run 1, time_steps 231385
+reward: 0.0
+Run 1, time_steps 231986
+reward: 0.0
+Run 1, time_steps 232587
+reward: 0.0
+Run 1, time_steps 233188
+reward: 0.0
+Run 1, time_steps 233789
+reward: 0.0
+Run 1, time_steps 234390
+reward: 0.0
+Run 1, time_steps 234991
+reward: 0.0
+Run 1, time_steps 235592
+reward: 0.0
+Run 1, time_steps 236193
+reward: 0.0
+Run 1, time_steps 236794
+reward: 0.1
+Run 1, time_steps 237395
+reward: 0.0
+Run 1, time_steps 237996
+reward: 0.0
+Run 1, time_steps 238597
+reward: 0.1
+Run 1, time_steps 239198
+reward: 0.0
+Run 1, time_steps 239799
+reward: 0.0
+Run 1, time_steps 240400
+reward: 0.0
+Run 1, time_steps 241001
+reward: 0.0
+Run 1, time_steps 241602
+reward: 0.0
+Run 1, time_steps 242203
+reward: 0.0
+Run 1, time_steps 242804
+reward: 0.0
+Run 1, time_steps 243405
+reward: 0.0
+Run 1, time_steps 244006
+reward: 0.0
+Run 1, time_steps 244607
+reward: 0.0
+Run 1, time_steps 245208
+reward: 0.0
+Run 1, time_steps 245809
+reward: 0.1
+Run 1, time_steps 246410
+reward: 0.0
+Run 1, time_steps 247011
+reward: 0.0
+Run 1, time_steps 247612
+reward: 0.0
+Run 1, time_steps 248213
+reward: 0.1
+Run 1, time_steps 248814
+reward: 0.0
+Run 1, time_steps 249415
+reward: 0.0
+Run 1, time_steps 250016
+reward: 0.0
+Run 1, time_steps 250617
+reward: 0.0
+Run 1, time_steps 251218
+reward: 0.0
+Run 1, time_steps 251819
+reward: 0.0
+Run 1, time_steps 252420
+reward: 0.0
+Run 1, time_steps 253021
+reward: 0.0
+Run 1, time_steps 253622
+reward: 0.0
+Run 1, time_steps 254223
+reward: 0.0
+Run 1, time_steps 254824
+reward: 0.0
+Run 1, time_steps 255425
+reward: 0.6
+Run 1, time_steps 256026
+reward: 0.0
+Run 1, time_steps 256627
+reward: 0.0
+Run 1, time_steps 257228
+reward: 0.0
+Run 1, time_steps 257829
+reward: 0.0
+Run 1, time_steps 258430
+reward: 0.0
+Run 1, time_steps 259031
+reward: 0.0
+Run 1, time_steps 259632
+reward: 0.0
+Run 1, time_steps 260233
+reward: 0.6
+Run 1, time_steps 260834
+reward: 0.0
+Run 1, time_steps 261435
+reward: 0.0
+Run 1, time_steps 262036
+reward: 0.1
+Run 1, time_steps 262637
+reward: 0.0
+Run 1, time_steps 263238
+reward: 0.0
+Run 1, time_steps 263839
+reward: 0.0
+Run 1, time_steps 264440
+reward: 0.6
+Run 1, time_steps 265041
+reward: 0.0
+Run 1, time_steps 265642
+reward: 0.1
+Run 1, time_steps 266243
+reward: 0.0
+Run 1, time_steps 266844
+reward: 0.1
+Run 1, time_steps 267445
+reward: 0.6
+Run 1, time_steps 268046
+reward: 0.0
+Run 1, time_steps 268647
+reward: 0.0
+Run 1, time_steps 269248
+reward: 0.0
+Run 1, time_steps 269849
+reward: 0.0
+Run 1, time_steps 270450
+reward: 0.0
+Run 1, time_steps 271051
+reward: 0.0
+Run 1, time_steps 271652
+reward: 0.0
+Run 1, time_steps 272253
+reward: 0.0
+Run 1, time_steps 272854
+reward: 0.0
+Run 1, time_steps 273455
+reward: 0.0
+Run 1, time_steps 274056
+reward: 0.0
+Run 1, time_steps 274657
+reward: 0.0
+Run 1, time_steps 275258
+reward: 0.6
+Run 1, time_steps 275859
+reward: 0.0
+Run 1, time_steps 276460
+reward: 0.0
+Run 1, time_steps 277061
+reward: 0.0
+Run 1, time_steps 277662
+reward: 0.0
+Run 1, time_steps 278263
+reward: 0.0
+Run 1, time_steps 278864
+reward: 0.0
+Run 1, time_steps 279465
+reward: 0.0
+Run 1, time_steps 280066
+reward: 0.0
+Run 1, time_steps 280667
+reward: 0.0
+Run 1, time_steps 281268
+reward: 0.0
+Run 1, time_steps 281869
+reward: 0.0
+Run 1, time_steps 282470
+reward: 0.0
+Run 1, time_steps 283071
+reward: 0.0
+Run 1, time_steps 283672
+reward: 0.0
+Run 1, time_steps 284273
+reward: 0.0
+Run 1, time_steps 284874
+reward: 0.0
+Run 1, time_steps 285475
+reward: 0.0
+Run 1, time_steps 286076
+reward: 0.0
+Run 1, time_steps 286677
+reward: 0.0
+Run 1, time_steps 287278
+reward: 0.0
+Run 1, time_steps 287879
+reward: 0.6
+Run 1, time_steps 288480
+reward: 0.0
+Run 1, time_steps 289081
+reward: 0.0
+Run 1, time_steps 289682
+reward: 0.0
+Run 1, time_steps 290283
+reward: 0.0
+Run 1, time_steps 290884
+reward: 0.0
+Run 1, time_steps 291485
+reward: 0.1
+Run 1, time_steps 292086
+reward: 0.6
+Run 1, time_steps 292687
+reward: 0.1
+Run 1, time_steps 293288
+reward: 0.0
+Run 1, time_steps 293889
+reward: 0.0
+Run 1, time_steps 294490
+reward: 0.0
+Run 1, time_steps 295091
+reward: 0.0
+Run 1, time_steps 295692
+reward: 0.0
+Run 1, time_steps 296293
+reward: 0.0
+Run 1, time_steps 296894
+reward: 0.0
+Run 1, time_steps 297495
+reward: 0.0
+Run 1, time_steps 298096
+reward: 0.0
+Run 1, time_steps 298697
+reward: 0.0
+Run 1, time_steps 299298
+reward: 0.0
+Run 1, time_steps 299899
+reward: 0.0
+Run 1, time_steps 300500
+reward: 0.0
+Run 1, time_steps 301101
+reward: 0.1
+Run 1, time_steps 301702
+reward: 0.0
+Run 1, time_steps 302303
+reward: 0.0
+Run 1, time_steps 302904
+reward: 0.0
+Run 1, time_steps 303505
+reward: 0.0
+Run 1, time_steps 304106
+reward: 0.0
+Run 1, time_steps 304707
+reward: 0.0
+Run 1, time_steps 305308
+reward: 0.0
+Run 1, time_steps 305909
+reward: 0.0
+Run 1, time_steps 306510
+reward: 0.0
+Run 1, time_steps 307111
+reward: 0.1
+Run 1, time_steps 307712
+reward: 0.0
+Run 1, time_steps 308313
+reward: 0.0
+Run 1, time_steps 308914
+reward: 0.0
+Run 1, time_steps 309515
+reward: 0.0
+Run 1, time_steps 310116
+reward: 0.0
+Run 1, time_steps 310717
+reward: 0.0
+Run 1, time_steps 311318
+reward: 0.6
+Run 1, time_steps 311919
+reward: 0.0
+Run 1, time_steps 312520
+reward: 0.0
+Run 1, time_steps 313121
+reward: 0.0
+Run 1, time_steps 313722
+reward: 0.0
+Run 1, time_steps 314323
+reward: 0.0
+Run 1, time_steps 314924
+reward: 0.0
+Run 1, time_steps 315525
+reward: 0.6
+Run 1, time_steps 316126
+reward: 0.6
+Run 1, time_steps 316727
+reward: 0.0
+Run 1, time_steps 317328
+reward: 0.0
+Run 1, time_steps 317929
+reward: 0.0
+Run 1, time_steps 318530
+reward: 0.0
+Run 1, time_steps 319131
+reward: 0.0
+Run 1, time_steps 319732
+reward: 0.0
+Run 1, time_steps 320333
+reward: 0.0
+Run 1, time_steps 320934
+reward: 0.6
+Run 1, time_steps 321535
+reward: 0.0
+Run 1, time_steps 322136
+reward: 0.0
+Run 1, time_steps 322737
+reward: 0.6
+Run 1, time_steps 323338
+reward: 0.0
+Run 1, time_steps 323939
+reward: 0.0
+Run 1, time_steps 324540
+reward: 0.6
+Run 1, time_steps 325141
+reward: 0.0
+Run 1, time_steps 325742
+reward: 0.0
+Run 1, time_steps 326343
+reward: 0.6
+Run 1, time_steps 326944
+reward: 0.6
+Run 1, time_steps 327545
+reward: 0.0
+Run 1, time_steps 328146
+reward: 0.0
+Run 1, time_steps 328747
+reward: 0.0
+Run 1, time_steps 329348
+reward: 0.0
+Run 1, time_steps 329949
+reward: 0.0
+Run 1, time_steps 330550
+reward: 0.6
+Run 1, time_steps 331151
+reward: 0.6
+Run 1, time_steps 331752
+reward: 0.1
+Run 1, time_steps 332353
+reward: 0.0
+Run 1, time_steps 332954
+reward: 0.0
+Run 1, time_steps 333555
+reward: 0.0
+Run 1, time_steps 334156
+reward: 0.0
+Run 1, time_steps 334757
+reward: 0.1
+Run 1, time_steps 335358
+reward: 0.1
+Run 1, time_steps 335959
+reward: 0.1
+Run 1, time_steps 336560
+reward: 0.0
+Run 1, time_steps 337161
+reward: 0.0
+Run 1, time_steps 337762
+reward: 0.0
+Run 1, time_steps 338363
+reward: 0.0
+Run 1, time_steps 338964
+reward: 0.0
+Run 1, time_steps 339565
+reward: 0.0
+Run 1, time_steps 340166
+reward: 0.1
+Run 1, time_steps 340767
+reward: 0.0
+Run 1, time_steps 341368
+reward: 0.6
+Run 1, time_steps 341969
+reward: 0.0
+Run 1, time_steps 342570
+reward: 0.0
+Run 1, time_steps 343171
+reward: 0.6
+Run 1, time_steps 343772
+reward: 0.0
+Run 1, time_steps 344373
+reward: 0.0
+Run 1, time_steps 344974
+reward: 0.0
+Run 1, time_steps 345575
+reward: 0.0
+Run 1, time_steps 346176
+reward: 0.0
+Run 1, time_steps 346777
+reward: 0.0
+Run 1, time_steps 347378
+reward: 0.0
+Run 1, time_steps 347979
+reward: 0.6
+Run 1, time_steps 348580
+reward: 0.0
+Run 1, time_steps 349181
+reward: 0.0
+Run 1, time_steps 349782
+reward: 0.0
+Run 1, time_steps 350383
+reward: 0.0
+Run 1, time_steps 350984
+reward: 0.0
+Run 1, time_steps 351585
+reward: 0.6
+Run 1, time_steps 352186
+reward: 0.0
+Run 1, time_steps 352787
+reward: 0.0
+Run 1, time_steps 353388
+reward: 0.0
+Run 1, time_steps 353989
+reward: 0.0
+Run 1, time_steps 354590
+reward: 0.0
+Run 1, time_steps 355191
+reward: 0.0
+Run 1, time_steps 355792
+reward: 0.0
+Run 1, time_steps 356393
+reward: 0.1
+Run 1, time_steps 356994
+reward: 0.0
+Run 1, time_steps 357595
+reward: 0.0
+Run 1, time_steps 358196
+reward: 0.0
+Run 1, time_steps 358797
+reward: 0.1
+Run 1, time_steps 359398
+reward: 0.6
+Run 1, time_steps 359999
+reward: 0.0
+Run 1, time_steps 360600
+reward: 0.6
+Run 1, time_steps 361201
+reward: 0.0
+Run 1, time_steps 361802
+reward: 0.0
+Run 1, time_steps 362403
+reward: 0.0
+Run 1, time_steps 363004
+reward: 0.6
+Run 1, time_steps 363605
+reward: 0.6
+Run 1, time_steps 364206
+reward: 0.0
+Run 1, time_steps 364807
+reward: 0.6
+Run 1, time_steps 365408
+reward: 0.0
+Run 1, time_steps 366009
+reward: 0.0
+Run 1, time_steps 366610
+reward: 0.0
+Run 1, time_steps 367211
+reward: 0.1
+Run 1, time_steps 367812
+reward: 0.1
+Run 1, time_steps 368413
+reward: 0.0
+Run 1, time_steps 369014
+reward: 0.0
+Run 1, time_steps 369615
+reward: 0.0
+Run 1, time_steps 370216
+reward: 0.0
+Run 1, time_steps 370817
+reward: 0.0
+Run 1, time_steps 371418
+reward: 0.6
+Run 1, time_steps 372019
+reward: 0.6
+Run 1, time_steps 372620
+reward: 0.1
+Run 1, time_steps 373221
+reward: 0.0
+Run 1, time_steps 373822
+reward: 0.0
+Run 1, time_steps 374423
+reward: 0.0
+Run 1, time_steps 375024
+reward: 0.0
+Run 1, time_steps 375625
+reward: 0.0
+Run 1, time_steps 376226
+reward: 0.6
+Run 1, time_steps 376827
+reward: 0.0
+Run 1, time_steps 377428
+reward: 0.0
+Run 1, time_steps 378029
+reward: 0.0
+Run 1, time_steps 378630
+reward: 0.0
+Run 1, time_steps 379231
+reward: 0.0
+Run 1, time_steps 379832
+reward: 0.0
+Run 1, time_steps 380433
+reward: 0.0
+Run 1, time_steps 381034
+reward: 0.0
+Run 1, time_steps 381635
+reward: 0.0
+Run 1, time_steps 382236
+reward: 0.1
+Run 1, time_steps 382837
+reward: 0.0
+Run 1, time_steps 383438
+reward: 0.1
+Run 1, time_steps 384039
+reward: 0.6
+Run 1, time_steps 384640
+reward: 0.0
+Run 1, time_steps 385241
+reward: 0.1
+Run 1, time_steps 385842
+reward: 0.6
+Run 1, time_steps 386443
+reward: 0.1
+Run 1, time_steps 387044
+reward: 0.6
+Run 1, time_steps 387645
+reward: 0.0
+Run 1, time_steps 388246
+reward: 0.0
+Run 1, time_steps 388847
+reward: 0.0
+Run 1, time_steps 389448
+reward: 0.6
+Run 1, time_steps 390049
+reward: 0.6
+Run 1, time_steps 390650
+reward: 0.0
+Run 1, time_steps 391251
+reward: 0.0
+Run 1, time_steps 391852
+reward: 0.0
+Run 1, time_steps 392453
+reward: 0.6
+Run 1, time_steps 393054
+reward: 0.0
+Run 1, time_steps 393655
+reward: 0.6
+Run 1, time_steps 394256
+reward: 0.1
+Run 1, time_steps 394857
+reward: 0.6
+Run 1, time_steps 395458
+reward: 0.0
+Run 1, time_steps 396059
+reward: 0.0
+Run 1, time_steps 396660
+reward: 0.6
+Run 1, time_steps 397261
+reward: 0.1
+Run 1, time_steps 397862
+reward: 0.1
+Run 1, time_steps 398463
+reward: 0.1
+Run 1, time_steps 399064
+reward: 0.1
+Run 1, time_steps 399665
+reward: 0.0
+Run 1, time_steps 400266
+reward: 0.0
+Run 1, time_steps 400867
+reward: 0.0
+Run 1, time_steps 401468
+reward: 0.0
+Run 1, time_steps 402069
+reward: 0.0
+Run 1, time_steps 402670
+reward: 0.0
+Run 1, time_steps 403271
+reward: 0.0
+Run 1, time_steps 403872
+reward: 0.0
+Run 1, time_steps 404473
+reward: 0.6
+Run 1, time_steps 405074
+reward: 0.0
+Run 1, time_steps 405675
+reward: 0.0
+Run 1, time_steps 406276
+reward: 0.0
+Run 1, time_steps 406877
+reward: 0.0
+Run 1, time_steps 407478
+reward: 0.0
+Run 1, time_steps 408079
+reward: 0.1
+Run 1, time_steps 408680
+reward: 0.1
+Run 1, time_steps 409281
+reward: 0.1
+Run 1, time_steps 409882
+reward: 0.1
+Run 1, time_steps 410483
+reward: 0.6
+Run 1, time_steps 411084
+reward: 0.1
+Run 1, time_steps 411685
+reward: 0.0
+Run 1, time_steps 412286
+reward: 0.0
+Run 1, time_steps 412887
+reward: 0.0
+Run 1, time_steps 413488
+reward: 0.1
+Run 1, time_steps 414089
+reward: 0.6
+Run 1, time_steps 414690
+reward: 0.1
+Run 1, time_steps 415291
+reward: 0.0
+Run 1, time_steps 415892
+reward: 0.0
+Run 1, time_steps 416493
+reward: 0.0
+Run 1, time_steps 417094
+reward: 0.0
+Run 1, time_steps 417695
+reward: 0.0
+Run 1, time_steps 418296
+reward: 0.0
+Run 1, time_steps 418897
+reward: 1.2
+Run 1, time_steps 419498
+reward: 0.6
+Run 1, time_steps 420099
+reward: 0.6
+Run 1, time_steps 420700
+reward: 0.1
+Run 1, time_steps 421301
+reward: 0.0
+Run 1, time_steps 421902
+reward: 0.0
+Run 1, time_steps 422503
+reward: 0.0
+Run 1, time_steps 423104
+reward: 0.0
+Run 1, time_steps 423705
+reward: 0.0
+Run 1, time_steps 424306
+reward: 0.6
+Run 1, time_steps 424907
+reward: 0.6
+Run 1, time_steps 425508
+reward: 0.0
+Run 1, time_steps 426109
+reward: 0.6
+Run 1, time_steps 426710
+reward: 0.1
+Run 1, time_steps 427311
+reward: 0.1
+Run 1, time_steps 427912
+reward: 0.0
+Run 1, time_steps 428513
+reward: 0.1
+Run 1, time_steps 429114
+reward: 0.0
+Run 1, time_steps 429715
+reward: 0.6
+Run 1, time_steps 430316
+reward: 0.6
+Run 1, time_steps 430917
+reward: 0.1
+Run 1, time_steps 431518
+reward: 0.0
+Run 1, time_steps 432119
+reward: 0.6
+Run 1, time_steps 432720
+reward: 0.0
+Run 1, time_steps 433321
+reward: 0.1
+Run 1, time_steps 433922
+reward: 0.1
+Run 1, time_steps 434523
+reward: 0.0
+Run 1, time_steps 435124
+reward: 0.1
+Run 1, time_steps 435725
+reward: 0.0
+Run 1, time_steps 436326
+reward: 0.0
+Run 1, time_steps 436927
+reward: 0.0
+Run 1, time_steps 437528
+reward: 0.0
+Run 1, time_steps 438129
+reward: 0.0
+Run 1, time_steps 438730
+reward: 0.1
+Run 1, time_steps 439331
+reward: 0.1
+Run 1, time_steps 439932
+reward: 0.6
+Run 1, time_steps 440533
+reward: 0.1
+Run 1, time_steps 441134
+reward: 0.6
+Run 1, time_steps 441735
+reward: 0.0
+Run 1, time_steps 442336
+reward: 0.1
+Run 1, time_steps 442937
+reward: 0.1
+Run 1, time_steps 443538
+reward: 0.6
+Run 1, time_steps 444139
+reward: 0.6
+Run 1, time_steps 444740
+reward: 0.6
+Run 1, time_steps 445341
+reward: 0.6
+Run 1, time_steps 445942
+reward: 0.1
+Run 1, time_steps 446543
+reward: 0.0
+Run 1, time_steps 447144
+reward: 0.1
+Run 1, time_steps 447745
+reward: 0.6
+Run 1, time_steps 448346
+reward: 0.0
+Run 1, time_steps 448947
+reward: 0.1
+Run 1, time_steps 449548
+reward: 0.1
+Run 1, time_steps 450149
+reward: 0.0
+Run 1, time_steps 450750
+reward: 0.1
+Run 1, time_steps 451351
+reward: 0.0
+Run 1, time_steps 451952
+reward: 0.1
+Run 1, time_steps 452553
+reward: 0.0
+Run 1, time_steps 453154
+reward: 0.1
+Run 1, time_steps 453755
+reward: 0.1
+Run 1, time_steps 454356
+reward: 0.6
+Run 1, time_steps 454957
+reward: 0.0
+Run 1, time_steps 455558
+
+reward: 0.0
+Run 1, time_steps 456159
+reward: 0.0
+Run 1, time_steps 456760
+reward: 0.6
+Run 1, time_steps 457361
+reward: 0.1
+Run 1, time_steps 457962
+reward: 0.1
+Run 1, time_steps 458563
+reward: 0.1
+Run 1, time_steps 459164
+reward: 0.6
+Run 1, time_steps 459765
+reward: 0.0
+Run 1, time_steps 460366
+reward: 0.0
+Run 1, time_steps 460967
+reward: 0.0
+Run 1, time_steps 461568
+reward: 0.6
+Run 1, time_steps 462169
+reward: 0.0
+Run 1, time_steps 462770
+reward: 0.1
+Run 1, time_steps 463371
+reward: 0.1
+Run 1, time_steps 463972
+reward: 0.6
+Run 1, time_steps 464573
+reward: 0.0
+Run 1, time_steps 465174
+reward: 0.0
+Run 1, time_steps 465775
+reward: 0.0
+Run 1, time_steps 466376
+reward: 0.6
+Run 1, time_steps 466977
+reward: 0.6
+Run 1, time_steps 467578
+reward: 0.1
+Run 1, time_steps 468179
+reward: 0.1
+Run 1, time_steps 468780
+reward: 0.6
+Run 1, time_steps 469381
+reward: 0.1
+Run 1, time_steps 469982
+reward: 0.6
+Run 1, time_steps 470583
+reward: 0.0
+Run 1, time_steps 471184
+reward: 0.6
+Run 1, time_steps 471785
+reward: 0.6
+Run 1, time_steps 472386
+reward: 0.6
+Run 1, time_steps 472987
+reward: 0.1
+Run 1, time_steps 473588
+reward: 0.1
+Run 1, time_steps 474189
+reward: 0.6
+Run 1, time_steps 474790
+reward: 0.6
+Run 1, time_steps 475391
+reward: 0.0
+Run 1, time_steps 475992
+reward: 0.0
+Run 1, time_steps 476593
+reward: 0.1
+Run 1, time_steps 477194
+reward: 0.6
+Run 1, time_steps 477795
+reward: 0.1
+Run 1, time_steps 478396
+reward: 0.0
+Run 1, time_steps 478997
+reward: 0.1
+Run 1, time_steps 479598
+reward: 0.0
+Run 1, time_steps 480199
+reward: 0.0
+Run 1, time_steps 480800
+reward: 0.1
+Run 1, time_steps 481401
+reward: 0.0
+Run 1, time_steps 482002
+reward: 0.0
+Run 1, time_steps 482603
+reward: 0.6
+Run 1, time_steps 483204
+reward: 0.6
+Run 1, time_steps 483805
+reward: 0.1
+Run 1, time_steps 484406
+reward: 0.6
+Run 1, time_steps 485007
+reward: 0.1
+Run 1, time_steps 485608
+reward: 0.0
+Run 1, time_steps 486209
+reward: 0.0
+Run 1, time_steps 486810
+reward: 0.0
+Run 1, time_steps 487411
+reward: 0.1
+Run 1, time_steps 488012
+reward: 0.1
+Run 1, time_steps 488613
+reward: 0.1
+Run 1, time_steps 489214
+reward: 0.1
+Run 1, time_steps 489815
+reward: 0.0
+Run 1, time_steps 490416
+reward: 0.0
+Run 1, time_steps 491017
+reward: 0.0
+Run 1, time_steps 491618
+reward: 0.0
+Run 1, time_steps 492219
+reward: 0.0
+Run 1, time_steps 492820
+reward: 0.0
+Run 1, time_steps 493421
+reward: 0.1
+Run 1, time_steps 494022
+reward: 0.1
+Run 1, time_steps 494623
+reward: 0.1
+Run 1, time_steps 495224
+reward: 0.1
+Run 1, time_steps 495825
+reward: 0.1
+Run 1, time_steps 496426
+reward: 0.6
+Run 1, time_steps 497027
+reward: 0.1
+Run 1, time_steps 497628
+reward: 0.0
+Run 1, time_steps 498229
+reward: 0.1
+Run 1, time_steps 498830
+reward: 0.1
+Run 1, time_steps 499431
+reward: 0.6
+Run 1, time_steps 500032
+reward: 0.1
+Run 1, time_steps 500633
+reward: 0.6
+Run 1, time_steps 501234
+reward: 0.1
+Run 1, time_steps 501835
+reward: 0.0
+Run 1, time_steps 502436
+reward: 0.0
+Run 1, time_steps 503037
+reward: 0.0
+Run 1, time_steps 503638
+reward: 0.1
+Run 1, time_steps 504239
+reward: 0.0
+Run 1, time_steps 504840
+reward: 0.0
+Run 1, time_steps 505441
+reward: 0.0
+Run 1, time_steps 506042
+reward: 0.0
+Run 1, time_steps 506643
+reward: 0.0
+Run 1, time_steps 507244
+reward: 0.1
+Run 1, time_steps 507845
+reward: 0.0
+Run 1, time_steps 508446
+reward: 0.0
+Run 1, time_steps 509047
+reward: 0.0
+Run 1, time_steps 509648
+reward: 0.0
+Run 1, time_steps 510249
+reward: 0.0
+Run 1, time_steps 510850
+reward: 0.6
+Run 1, time_steps 511451
+reward: 0.1
+Run 1, time_steps 512052
+reward: 0.6
+Run 1, time_steps 512653
+
+reward: 0.6
+Run 1, time_steps 513254
+reward: 0.0
+Run 1, time_steps 513855
+reward: 0.0
+Run 1, time_steps 514456
+reward: 0.1
+Run 1, time_steps 515057
+reward: 0.0
+Run 1, time_steps 515658
+reward: 0.1
+Run 1, time_steps 516259
+reward: 0.1
+Run 1, time_steps 516860
+reward: 0.0
+Run 1, time_steps 517461
+reward: 0.1
+Run 1, time_steps 518062
+reward: 0.1
+Run 1, time_steps 518663
+reward: 0.6
+Run 1, time_steps 519264
+reward: 0.0
+Run 1, time_steps 519865
+reward: 0.6
+Run 1, time_steps 520466
+reward: 0.1
+Run 1, time_steps 521067
+reward: 0.6
+Run 1, time_steps 521668
+reward: 0.6
+Run 1, time_steps 522269
+reward: 0.0
+Run 1, time_steps 522870
+reward: 0.1
+Run 1, time_steps 523471
+reward: 0.0
+Run 1, time_steps 524072
+reward: 0.0
+Run 1, time_steps 524673
+reward: 0.1
+Run 1, time_steps 525274
+reward: 0.1
+Run 1, time_steps 525875
+reward: 0.0
+Run 1, time_steps 526476
+reward: 0.0
+Run 1, time_steps 527077
+reward: 0.1
+Run 1, time_steps 527678
+reward: 0.1
+Run 1, time_steps 528279
+reward: 0.0
+Run 1, time_steps 528880
+reward: 0.0
+Run 1, time_steps 529481
+reward: 0.0
+Run 1, time_steps 530082
+reward: 0.1
+Run 1, time_steps 530683
+reward: 0.6
+Run 1, time_steps 531284
+reward: 0.1
+Run 1, time_steps 531885
+reward: 0.0
+Run 1, time_steps 532486
+reward: 0.0
+Run 1, time_steps 533087
+reward: 0.0
+Run 1, time_steps 533688
+reward: 0.1
+Run 1, time_steps 534289
+reward: 0.0
+Run 1, time_steps 534890
+reward: 0.0
+Run 1, time_steps 535491
+reward: 0.1
+Run 1, time_steps 536092
+reward: 0.0
+Run 1, time_steps 536693
+reward: 0.0
+Run 1, time_steps 537294
+reward: 0.1
+Run 1, time_steps 537895
+reward: 0.0
+Run 1, time_steps 538496
+reward: 0.0
+Run 1, time_steps 539097
+reward: 0.6
+Run 1, time_steps 539698
+reward: 0.0
+Run 1, time_steps 540299
+reward: 0.0
+Run 1, time_steps 540900
+reward: 0.0
+Run 1, time_steps 541501
+reward: 0.0
+Run 1, time_steps 542102
+reward: 0.1
+Run 1, time_steps 542703
+reward: 0.0
+Run 1, time_steps 543304
+reward: 0.0
+Run 1, time_steps 543905
+reward: 0.0
+Run 1, time_steps 544506
+reward: 0.1
+Run 1, time_steps 545107
+reward: 0.1
+Run 1, time_steps 545708
+reward: 0.0
+Run 1, time_steps 546309
+reward: 0.0
+Run 1, time_steps 546910
+reward: 0.0
+Run 1, time_steps 547511
+reward: 0.0
+Run 1, time_steps 548112
+reward: 0.0
+Run 1, time_steps 548713
+reward: 0.1
+Run 1, time_steps 549314
+reward: 0.0
+Run 1, time_steps 549915
+reward: 0.1
+Run 1, time_steps 550516
+reward: 0.0
+Run 1, time_steps 551117
+reward: 0.0
+Run 1, time_steps 551718
+reward: 0.1
+Run 1, time_steps 552319
+reward: 0.0
+Run 1, time_steps 552920
+reward: 0.0
+Run 1, time_steps 553521
+reward: 0.0
+Run 1, time_steps 554122
+reward: 0.0
+Run 1, time_steps 554723
+reward: 0.0
+Run 1, time_steps 555324
+reward: 0.0
+Run 1, time_steps 555925
+reward: 0.1
+Run 1, time_steps 556526
+reward: 0.0
+Run 1, time_steps 557127
+reward: 0.1
+Run 1, time_steps 557728
+reward: 0.0
+Run 1, time_steps 558329
+
+reward: 0.0
+Run 1, time_steps 558930
+reward: 0.0
+Run 1, time_steps 559531
+reward: 0.1
+Run 1, time_steps 560132
+reward: 0.0
+Run 1, time_steps 560733
+reward: 0.0
+Run 1, time_steps 561334
+reward: 0.0
+Run 1, time_steps 561935
+reward: 0.0
+Run 1, time_steps 562536
+reward: 0.0
+Run 1, time_steps 563137
+reward: 0.0
+Run 1, time_steps 563738
+reward: 0.0
+Run 1, time_steps 564339
+reward: 0.0
+Run 1, time_steps 564940
+reward: 0.0
+Run 1, time_steps 565541
+
+reward: 0.0
+Run 1, time_steps 566142
+reward: 0.0
+Run 1, time_steps 566743
+reward: 0.1
+Run 1, time_steps 567344
+reward: 0.0
+Run 1, time_steps 567945
+reward: 0.0
+Run 1, time_steps 568546
+reward: 0.0
+Run 1, time_steps 569147
+reward: 0.6
+Run 1, time_steps 569748
+reward: 0.0
+Run 1, time_steps 570349
+reward: 0.0
+Run 1, time_steps 570950
+reward: 0.0
+Run 1, time_steps 571551
+reward: 0.6
+Run 1, time_steps 572152
+reward: 0.0
+Run 1, time_steps 572753
+reward: 0.0
+Run 1, time_steps 573354
+reward: 0.0
+Run 1, time_steps 573955
+reward: 0.0
+Run 1, time_steps 574556
+reward: 0.1
+Run 1, time_steps 575157
+reward: 0.0
+Run 1, time_steps 575758
+reward: 0.0
+Run 1, time_steps 576359
+reward: 0.0
+Run 1, time_steps 576960
+reward: 0.0
+Run 1, time_steps 577561
+reward: 0.0
+Run 1, time_steps 578162
+reward: 0.0
+Run 1, time_steps 578763
+reward: 0.0
+Run 1, time_steps 579364
+reward: 0.0
+Run 1, time_steps 579965
+reward: 0.0
+Run 1, time_steps 580566
+reward: 0.0
+Run 1, time_steps 581167
+reward: 0.0
+Run 1, time_steps 581768
+reward: 0.1
+Run 1, time_steps 582369
+reward: 0.0
+Run 1, time_steps 582970
+reward: 0.0
+Run 1, time_steps 583571
+reward: 0.0
+Run 1, time_steps 584172
+reward: 0.0
+Run 1, time_steps 584773
+reward: 0.0
+Run 1, time_steps 585374
+reward: 0.0
+Run 1, time_steps 585975
+reward: 0.1
+Run 1, time_steps 586576
+
+reward: 0.1
+Run 1, time_steps 587177
+reward: 0.0
+Run 1, time_steps 587778
+reward: 0.0
+Run 1, time_steps 588379
+reward: 0.1
+Run 1, time_steps 588980
+reward: 0.0
+Run 1, time_steps 589581
+reward: 0.1
+Run 1, time_steps 590182
+reward: 0.0
+Run 1, time_steps 590783
+reward: 0.1
+Run 1, time_steps 591384
+reward: 0.0
+Run 1, time_steps 591985
+reward: 0.1
+Run 1, time_steps 592586
+reward: 0.0
+Run 1, time_steps 593187
+reward: 0.0
+Run 1, time_steps 593788
+reward: 0.0
+Run 1, time_steps 594389
+reward: 0.0
+Run 1, time_steps 594990
+reward: 0.0
+Run 1, time_steps 595591
+reward: 0.0
+Run 1, time_steps 596192
+reward: 0.6
+Run 1, time_steps 596793
+reward: 0.0
+Run 1, time_steps 597394
+reward: 0.0
+Run 1, time_steps 597995
+reward: 0.0
+Run 1, time_steps 598596
+reward: 0.0
+Run 1, time_steps 599197
+reward: 0.0
+Run 1, time_steps 599798
+reward: 0.0
+Run 1, time_steps 600399
+reward: 0.0
+Run 1, time_steps 601000
+reward: 0.0
+Run 1, time_steps 601601
+reward: 0.0
+Run 1, time_steps 602202
+reward: 0.1
+Run 1, time_steps 602803
+reward: 0.0
+Run 1, time_steps 603404
+reward: 0.0
+Run 1, time_steps 604005
+reward: 0.0
+Run 1, time_steps 604606
+reward: 0.0
+Run 1, time_steps 605207
+reward: 0.0
+Run 1, time_steps 605808
+reward: 0.0
+Run 1, time_steps 606409
+reward: 0.0
+Run 1, time_steps 607010
+reward: 0.0
+Run 1, time_steps 607611
+reward: 0.0
+Run 1, time_steps 608212
+reward: 0.0
+Run 1, time_steps 608813
+reward: 0.0
+Run 1, time_steps 609414
+reward: 0.1
+Run 1, time_steps 610015
+reward: 0.0
+Run 1, time_steps 610616
+reward: 0.0
+Run 1, time_steps 611217
+reward: 0.0
+Run 1, time_steps 611818
+reward: 0.0
+Run 1, time_steps 612419
+reward: 0.0
+Run 1, time_steps 613020
+reward: 0.0
+Run 1, time_steps 613621
+reward: 0.0
+Run 1, time_steps 614222
+reward: 0.0
+Run 1, time_steps 614823
+reward: 0.0
+Run 1, time_steps 615424
+reward: 0.0
+Run 1, time_steps 616025
+reward: 0.0
+Run 1, time_steps 616626
+reward: 0.0
+Run 1, time_steps 617227
+reward: 0.6
+Run 1, time_steps 617828
+reward: 0.0
+Run 1, time_steps 618429
+reward: 0.0
+Run 1, time_steps 619030
+reward: 0.0
+Run 1, time_steps 619631
+reward: 0.6
+Run 1, time_steps 620232
+reward: 0.0
+Run 1, time_steps 620833
+reward: 0.0
+Run 1, time_steps 621434
+reward: 0.0
+Run 1, time_steps 622035
+reward: 0.0
+Run 1, time_steps 622636
+reward: 0.0
+Run 1, time_steps 623237
+reward: 0.0
+Run 1, time_steps 623838
+reward: 0.6
+Run 1, time_steps 624439
+reward: 0.0
+Run 1, time_steps 625040
+reward: 0.6
+Run 1, time_steps 625641
+reward: 0.0
+Run 1, time_steps 626242
+reward: 0.6
+Run 1, time_steps 626843
+reward: 0.6
+Run 1, time_steps 627444
+reward: 0.0
+Run 1, time_steps 628045
+reward: 0.0
+Run 1, time_steps 628646
+reward: 0.0
+Run 1, time_steps 629247
+reward: 0.0
+Run 1, time_steps 629848
+reward: 0.0
+Run 1, time_steps 630449
+reward: 0.0
+Run 1, time_steps 631050
+reward: 0.0
+Run 1, time_steps 631651
+reward: 0.0
+Run 1, time_steps 632252
+reward: 0.0
+Run 1, time_steps 632853
+reward: 0.0
+Run 1, time_steps 633454
+
+reward: 0.0
+Run 1, time_steps 634055
+reward: 0.0
+Run 1, time_steps 634656
+reward: 0.6
+Run 1, time_steps 635257
+reward: 0.6
+Run 1, time_steps 635858
+reward: 0.6
+Run 1, time_steps 636459
+reward: 0.0
+Run 1, time_steps 637060
+reward: 0.0
+Run 1, time_steps 637661
+reward: 0.0
+Run 1, time_steps 638262
+reward: 0.0
+Run 1, time_steps 638863
+reward: 0.6
+Run 1, time_steps 639464
+reward: 0.0
+Run 1, time_steps 640065
+reward: 0.6
+Run 1, time_steps 640666
+reward: 0.0
+Run 1, time_steps 641267
+reward: 0.0
+Run 1, time_steps 641868
+reward: 0.0
+Run 1, time_steps 642469
+reward: 0.0
+Run 1, time_steps 643070
+reward: 0.1
+Run 1, time_steps 643671
+reward: 0.0
+Run 1, time_steps 644272
+reward: 0.0
+Run 1, time_steps 644873
+reward: 0.0
+Run 1, time_steps 645474
+reward: 0.0
+Run 1, time_steps 646075
+reward: 0.0
+Run 1, time_steps 646676
+reward: 0.6
+Run 1, time_steps 647277
+reward: 0.0
+Run 1, time_steps 647878
+reward: 0.0
+Run 1, time_steps 648479
+reward: 0.6
+Run 1, time_steps 649080
+reward: 0.6
+Run 1, time_steps 649681
+reward: 0.0
+Run 1, time_steps 650282
+reward: 0.0
+Run 1, time_steps 650883
+reward: 0.0
+Run 1, time_steps 651484
+reward: 0.0
+Run 1, time_steps 652085
+reward: 0.6
+Run 1, time_steps 652686
+reward: 0.0
+Run 1, time_steps 653287
+reward: 0.0
+Run 1, time_steps 653888
+reward: 0.0
+Run 1, time_steps 654489
+reward: 0.0
+Run 1, time_steps 655090
+reward: 0.0
+Run 1, time_steps 655691
+reward: 0.0
+Run 1, time_steps 656292
+reward: 0.1
+Run 1, time_steps 656893
+reward: 0.0
+Run 1, time_steps 657494
+reward: 0.0
+Run 1, time_steps 658095
+reward: 0.0
+Run 1, time_steps 658696
+reward: 0.0
+Run 1, time_steps 659297
+reward: 0.0
+Run 1, time_steps 659898
+reward: 0.0
+Run 1, time_steps 660499
+reward: 0.0
+Run 1, time_steps 661100
+reward: 0.0
+Run 1, time_steps 661701
+reward: 0.0
+Run 1, time_steps 662302
+reward: 0.6
+Run 1, time_steps 662903
+reward: 0.6
+Run 1, time_steps 663504
+reward: 0.0
+Run 1, time_steps 664105
+reward: 0.0
+Run 1, time_steps 664706
+reward: 0.0
+Run 1, time_steps 665307
+reward: 0.0
+Run 1, time_steps 665908
+reward: 0.1
+Run 1, time_steps 666509
+reward: 0.1
+Run 1, time_steps 667110
+reward: 0.0
+Run 1, time_steps 667711
+reward: 0.0
+Run 1, time_steps 668312
+reward: 0.0
+Run 1, time_steps 668913
+reward: 0.0
+Run 1, time_steps 669514
+reward: 0.0
+Run 1, time_steps 670115
+reward: 0.0
+Run 1, time_steps 670716
+reward: 0.0
+Run 1, time_steps 671317
+reward: 0.0
+Run 1, time_steps 671918
+reward: 0.0
+Run 1, time_steps 672519
+reward: 0.0
+Run 1, time_steps 673120
+reward: 0.0
+Run 1, time_steps 673721
+reward: 0.0
+Run 1, time_steps 674322
+reward: 0.0
+Run 1, time_steps 674923
+reward: 0.0
+Run 1, time_steps 675524
+reward: 0.0
+Run 1, time_steps 676125
+reward: 0.0
+Run 1, time_steps 676726
+reward: 0.0
+Run 1, time_steps 677327
+reward: 0.0
+Run 1, time_steps 677928
+reward: 0.0
+Run 1, time_steps 678529
+reward: 0.6
+Run 1, time_steps 679130
+reward: 0.0
+Run 1, time_steps 679731
+reward: 0.0
+Run 1, time_steps 680332
+reward: 0.0
+Run 1, time_steps 680933
+reward: 0.0
+Run 1, time_steps 681534
+reward: 0.0
+Run 1, time_steps 682135
+reward: 0.0
+Run 1, time_steps 682736
+reward: 0.0
+Run 1, time_steps 683337
+reward: 0.0
+Run 1, time_steps 683938
+reward: 0.0
+Run 1, time_steps 684539
+reward: 0.0
+Run 1, time_steps 685140
+reward: 0.0
+Run 1, time_steps 685741
+reward: 0.0
+Run 1, time_steps 686342
+reward: 0.0
+Run 1, time_steps 686943
+reward: 0.0
+Run 1, time_steps 687544
+reward: 0.0
+Run 1, time_steps 688145
+reward: 0.0
+Run 1, time_steps 688746
+reward: 0.0
+Run 1, time_steps 689347
+reward: 0.0
+Run 1, time_steps 689948
+reward: 0.0
+Run 1, time_steps 690549
+reward: 0.0
+Run 1, time_steps 691150
+reward: 0.6
+Run 1, time_steps 691751
+reward: 0.0
+Run 1, time_steps 692352
+reward: 0.0
+Run 1, time_steps 692953
+reward: 0.0
+Run 1, time_steps 693554
+reward: 0.0
+Run 1, time_steps 694155
+reward: 0.0
+Run 1, time_steps 694756
+reward: 0.0
+Run 1, time_steps 695357
+reward: 0.0
+Run 1, time_steps 695958
+reward: 0.0
+Run 1, time_steps 696559
+reward: 0.0
+Run 1, time_steps 697160
+reward: 0.0
+Run 1, time_steps 697761
+reward: 0.0
+Run 1, time_steps 698362
+reward: 0.0
+Run 1, time_steps 698963
+reward: 0.0
+Run 1, time_steps 699564
+reward: 0.6
+Run 1, time_steps 700165
+reward: 0.0
+Run 1, time_steps 700766
+reward: 0.0
+Run 1, time_steps 701367
+reward: 0.0
+Run 1, time_steps 701968
+reward: 0.0
+Run 1, time_steps 702569
+reward: 0.0
+Run 1, time_steps 703170
+reward: 0.0
+Run 1, time_steps 703771
+reward: 0.0
+Run 1, time_steps 704372
+reward: 0.0
+Run 1, time_steps 704973
+reward: 0.6
+Run 1, time_steps 705574
+reward: 0.0
+Run 1, time_steps 706175
+reward: 0.0
+Run 1, time_steps 706776
+reward: 0.0
+Run 1, time_steps 707377
+reward: 0.0
+Run 1, time_steps 707978
+reward: 0.0
+Run 1, time_steps 708579
+reward: 0.0
+Run 1, time_steps 709180
+reward: 0.0
+Run 1, time_steps 709781
+reward: 0.0
+Run 1, time_steps 710382
+reward: 0.0
+Run 1, time_steps 710983
+reward: 0.0
+Run 1, time_steps 711584
+reward: 0.0
+Run 1, time_steps 712185
+reward: 0.0
+Run 1, time_steps 712786
+reward: 0.0
+Run 1, time_steps 713387
+reward: 0.6
+Run 1, time_steps 713988
+reward: 0.0
+Run 1, time_steps 714589
+reward: 0.0
+Run 1, time_steps 715190
+reward: 0.0
+Run 1, time_steps 715791
+reward: 0.0
+Run 1, time_steps 716392
+reward: 0.0
+Run 1, time_steps 716993
+reward: 0.0
+Run 1, time_steps 717594
+reward: 0.0
+Run 1, time_steps 718195
+reward: 0.0
+Run 1, time_steps 718796
+reward: 0.0
+Run 1, time_steps 719397
+reward: 0.0
+Run 1, time_steps 719998
+reward: 0.1
+Run 1, time_steps 720599
+reward: 0.0
+Run 1, time_steps 721200
+reward: 0.0
+Run 1, time_steps 721801
+reward: 0.0
+Run 1, time_steps 722402
+
+reward: 0.0
+Run 1, time_steps 723003
+reward: 0.0
+Run 1, time_steps 723604
+reward: 0.0
+Run 1, time_steps 724205
+reward: 0.0
+Run 1, time_steps 724806
+reward: 0.0
+Run 1, time_steps 725407
+reward: 0.0
+Run 1, time_steps 726008
+reward: 0.0
+Run 1, time_steps 726609
+reward: 0.0
+Run 1, time_steps 727210
+reward: 0.6
+Run 1, time_steps 727811
+reward: 0.0
+Run 1, time_steps 728412
+reward: 0.0
+Run 1, time_steps 729013
+reward: 0.6
+Run 1, time_steps 729614
+reward: 0.0
+Run 1, time_steps 730215
+reward: 0.0
+Run 1, time_steps 730816
+reward: 0.0
+Run 1, time_steps 731417
+reward: 0.0
+Run 1, time_steps 732018
+reward: 0.0
+Run 1, time_steps 732619
+reward: 0.0
+Run 1, time_steps 733220
+reward: 0.0
+Run 1, time_steps 733821
+reward: 0.0
+Run 1, time_steps 734422
+reward: 0.0
+Run 1, time_steps 735023
+reward: 0.6
+Run 1, time_steps 735624
+reward: 0.0
+Run 1, time_steps 736225
+reward: 0.6
+Run 1, time_steps 736826
+reward: 0.0
+Run 1, time_steps 737427
+reward: 0.6
+Run 1, time_steps 738028
+reward: 0.0
+Run 1, time_steps 738629
+reward: 0.0
+Run 1, time_steps 739230
+reward: 0.0
+Run 1, time_steps 739831
+reward: 0.0
+Run 1, time_steps 740432
+reward: 0.0
+Run 1, time_steps 741033
+reward: 0.0
+Run 1, time_steps 741634
+reward: 0.0
+Run 1, time_steps 742235
+reward: 0.0
+Run 1, time_steps 742836
+reward: 0.0
+Run 1, time_steps 743437
+reward: 0.6
+Run 1, time_steps 744038
+reward: 0.6
+Run 1, time_steps 744639
+reward: 0.0
+Run 1, time_steps 745240
+reward: 0.0
+Run 1, time_steps 745841
+reward: 0.6
+Run 1, time_steps 746442
+reward: 0.6
+Run 1, time_steps 747043
+reward: 0.6
+Run 1, time_steps 747644
+reward: 0.6
+Run 1, time_steps 748245
+reward: 0.6
+Run 1, time_steps 748846
+reward: 0.6
+Run 1, time_steps 749447
+reward: 0.6
+Run 1, time_steps 750048
+reward: 0.6
+Run 1, time_steps 750649
+reward: 0.0
+Run 1, time_steps 751250
+reward: 0.0
+Run 1, time_steps 751851
+reward: 0.0
+Run 1, time_steps 752452
+reward: 0.6
+Run 1, time_steps 753053
+reward: 0.6
+Run 1, time_steps 753654
+reward: 0.0
+Run 1, time_steps 754255
+reward: 0.6
+Run 1, time_steps 754856
+reward: 0.6
+Run 1, time_steps 755457
+reward: 0.6
+Run 1, time_steps 756058
+reward: 0.0
+Run 1, time_steps 756659
+reward: 0.6
+Run 1, time_steps 757260
+reward: 0.6
+Run 1, time_steps 757861
+reward: 0.0
+Run 1, time_steps 758462
+reward: 0.0
+Run 1, time_steps 759063
+reward: 0.0
+Run 1, time_steps 759664
+reward: 0.0
+Run 1, time_steps 760265
+reward: 0.0
+Run 1, time_steps 760866
+reward: 0.6
+Run 1, time_steps 761467
+reward: 0.0
+Run 1, time_steps 762068
+reward: 0.0
+Run 1, time_steps 762669
+reward: 0.6
+Run 1, time_steps 763270
+reward: 0.6
+Run 1, time_steps 763871
+reward: 0.0
+Run 1, time_steps 764472
+reward: 0.0
+Run 1, time_steps 765073
+reward: 0.6
+Run 1, time_steps 765674
+reward: 0.6
+Run 1, time_steps 766275
+reward: 0.6
+Run 1, time_steps 766876
+reward: 0.0
+Run 1, time_steps 767477
+reward: 0.6
+Run 1, time_steps 768078
+reward: 0.0
+Run 1, time_steps 768679
+reward: 0.6
+Run 1, time_steps 769280
+reward: 0.0
+Run 1, time_steps 769881
+reward: 0.0
+Run 1, time_steps 770482
+reward: 0.0
+Run 1, time_steps 771083
+reward: 0.0
+Run 1, time_steps 771684
+reward: 0.0
+Run 1, time_steps 772285
+reward: 0.0
+Run 1, time_steps 772886
+reward: 0.0
+Run 1, time_steps 773487
+reward: 0.6
+Run 1, time_steps 774088
+reward: 0.0
+Run 1, time_steps 774689
+reward: 1.2
+Run 1, time_steps 775290
+reward: 0.6
+Run 1, time_steps 775891
+reward: 0.6
+Run 1, time_steps 776492
+reward: 0.6
+Run 1, time_steps 777093
+reward: 0.0
+Run 1, time_steps 777694
+reward: 0.0
+Run 1, time_steps 778295
+reward: 0.0
+Run 1, time_steps 778896
+reward: 0.6
+Run 1, time_steps 779497
+reward: 0.6
+Run 1, time_steps 780098
+reward: 0.6
+Run 1, time_steps 780699
+reward: 0.6
+Run 1, time_steps 781300
+reward: 0.0
+Run 1, time_steps 781901
+reward: 0.0
+Run 1, time_steps 782502
+reward: 0.6
+Run 1, time_steps 783103
+reward: 0.6
+Run 1, time_steps 783704
+reward: 0.6
+Run 1, time_steps 784305
+reward: 0.0
+Run 1, time_steps 784906
+reward: 0.6
+Run 1, time_steps 785507
+reward: 0.6
+Run 1, time_steps 786108
+reward: 0.6
+Run 1, time_steps 786709
+reward: 0.6
+Run 1, time_steps 787310
+reward: 0.0
+Run 1, time_steps 787911
+reward: 0.0
+Run 1, time_steps 788512
+reward: 0.0
+Run 1, time_steps 789113
+reward: 0.0
+Run 1, time_steps 789714
+reward: 0.0
+Run 1, time_steps 790315
+reward: 0.0
+Run 1, time_steps 790916
+reward: 0.0
+Run 1, time_steps 791517
+reward: 0.0
+Run 1, time_steps 792118
+reward: 0.0
+Run 1, time_steps 792719
+reward: 0.0
+Run 1, time_steps 793320
+reward: 0.0
+Run 1, time_steps 793921
+reward: 0.0
+Run 1, time_steps 794522
+reward: 0.0
+Run 1, time_steps 795123
+reward: 0.0
+Run 1, time_steps 795724
+reward: 0.6
+Run 1, time_steps 796325
+reward: 0.6
+Run 1, time_steps 796926
+reward: 0.6
+Run 1, time_steps 797527
+reward: 0.6
+Run 1, time_steps 798128
+reward: 0.0
+Run 1, time_steps 798729
+reward: 0.0
+Run 1, time_steps 799330
+reward: 0.6
+Run 1, time_steps 799931
+reward: 0.6
+Run 1, time_steps 800532
+reward: 0.6
+Run 1, time_steps 801133
+reward: 0.6
+Run 1, time_steps 801734
+reward: 0.6
+Run 1, time_steps 802335
+reward: 0.6
+Run 1, time_steps 802936
+reward: 0.6
+Run 1, time_steps 803537
+reward: 0.6
+Run 1, time_steps 804138
+reward: 0.1
+Run 1, time_steps 804739
+reward: 0.0
+Run 1, time_steps 805340
+reward: 0.0
+Run 1, time_steps 805941
+reward: 0.0
+Run 1, time_steps 806542
+reward: 0.0
+Run 1, time_steps 807143
+reward: 0.0
+Run 1, time_steps 807744
+reward: 0.0
+Run 1, time_steps 808345
+reward: 0.6
+Run 1, time_steps 808946
+reward: 0.0
+Run 1, time_steps 809547
+reward: 0.0
+Run 1, time_steps 810148
+reward: 0.6
+Run 1, time_steps 810749
+reward: 0.6
+Run 1, time_steps 811350
+reward: 0.6
+Run 1, time_steps 811951
+reward: 0.1
+Run 1, time_steps 812552
+reward: 0.0
+Run 1, time_steps 813153
+reward: 0.0
+Run 1, time_steps 813754
+reward: 0.0
+Run 1, time_steps 814355
+reward: 0.6
+Run 1, time_steps 814956
+reward: 0.6
+Run 1, time_steps 815557
+reward: 0.6
+Run 1, time_steps 816158
+reward: 0.0
+Run 1, time_steps 816759
+reward: 0.6
+Run 1, time_steps 817360
+reward: 0.0
+Run 1, time_steps 817961
+reward: 0.0
+Run 1, time_steps 818562
+reward: 0.0
+Run 1, time_steps 819163
+reward: 0.0
+Run 1, time_steps 819764
+reward: 0.0
+Run 1, time_steps 820365
+reward: 0.0
+Run 1, time_steps 820966
+reward: 0.0
+Run 1, time_steps 821567
+reward: 0.0
+Run 1, time_steps 822168
+reward: 0.6
+Run 1, time_steps 822769
+reward: 0.0
+Run 1, time_steps 823370
+reward: 0.0
+Run 1, time_steps 823971
+reward: 0.0
+Run 1, time_steps 824572
+reward: 0.0
+Run 1, time_steps 825173
+reward: 0.0
+Run 1, time_steps 825774
+reward: 0.0
+Run 1, time_steps 826375
+reward: 0.0
+Run 1, time_steps 826976
+reward: 0.0
+Run 1, time_steps 827577
+reward: 0.0
+Run 1, time_steps 828178
+reward: 0.0
+Run 1, time_steps 828779
+reward: 0.0
+Run 1, time_steps 829380
+reward: 0.6
+Run 1, time_steps 829981
+reward: 0.6
+Run 1, time_steps 830582
+reward: 0.0
+Run 1, time_steps 831183
+reward: 0.0
+Run 1, time_steps 831784
+reward: 0.6
+Run 1, time_steps 832385
+reward: 0.6
+Run 1, time_steps 832986
+reward: 0.0
+Run 1, time_steps 833587
+reward: 0.0
+Run 1, time_steps 834188
+reward: 0.0
+Run 1, time_steps 834789
+reward: 0.0
+Run 1, time_steps 835390
+reward: 0.0
+Run 1, time_steps 835991
+reward: 0.6
+Run 1, time_steps 836592
+reward: 0.6
+Run 1, time_steps 837193
+reward: 0.0
+Run 1, time_steps 837794
+reward: 0.6
+Run 1, time_steps 838395
+reward: 0.0
+Run 1, time_steps 838996
+reward: 0.0
+Run 1, time_steps 839597
+reward: 0.0
+Run 1, time_steps 840198
+reward: 0.0
+Run 1, time_steps 840799
+reward: 0.0
+Run 1, time_steps 841400
+reward: 0.6
+Run 1, time_steps 842001
+reward: 0.0
+Run 1, time_steps 842602
+reward: 0.0
+Run 1, time_steps 843203
+reward: 0.1
+Run 1, time_steps 843804
+reward: 0.0
+Run 1, time_steps 844405
+reward: 0.6
+Run 1, time_steps 845006
+reward: 0.0
+Run 1, time_steps 845607
+reward: 0.0
+Run 1, time_steps 846208
+reward: 0.0
+Run 1, time_steps 846809
+reward: 0.0
+Run 1, time_steps 847410
+reward: 0.0
+Run 1, time_steps 848011
+reward: 0.1
+Run 1, time_steps 848612
+reward: 0.0
+Run 1, time_steps 849213
+reward: 0.0
+Run 1, time_steps 849814
+reward: 0.0
+Run 1, time_steps 850415
+reward: 0.0
+Run 1, time_steps 851016
+reward: 0.0
+Run 1, time_steps 851617
+reward: 0.0
+Run 1, time_steps 852218
+reward: 0.0
+Run 1, time_steps 852819
+reward: 0.0
+Run 1, time_steps 853420
+reward: 0.0
+Run 1, time_steps 854021
+reward: 0.0
+Run 1, time_steps 854622
+reward: 0.0
+Run 1, time_steps 855223
+reward: 0.0
+Run 1, time_steps 855824
+reward: 0.0
+Run 1, time_steps 856425
+reward: 0.0
+Run 1, time_steps 857026
+reward: 0.6
+Run 1, time_steps 857627
+reward: 0.6
+Run 1, time_steps 858228
+reward: 0.0
+Run 1, time_steps 858829
+reward: 0.0
+Run 1, time_steps 859430
+reward: 0.0
+Run 1, time_steps 860031
+reward: 0.0
+Run 1, time_steps 860632
+reward: 0.0
+Run 1, time_steps 861233
+reward: 0.0
+Run 1, time_steps 861834
+reward: 0.0
+Run 1, time_steps 862435
+reward: 0.0
+Run 1, time_steps 863036
+reward: 0.0
+Run 1, time_steps 863637
+reward: 0.0
+Run 1, time_steps 864238
+reward: 0.0
+Run 1, time_steps 864839
+reward: 0.0
+Run 1, time_steps 865440
+reward: 0.0
+Run 1, time_steps 866041
+reward: 0.0
+Run 1, time_steps 866642
+reward: 0.0
+Run 1, time_steps 867243
+reward: 0.0
+Run 1, time_steps 867844
+reward: 0.0
+Run 1, time_steps 868445
+reward: 0.0
+Run 1, time_steps 869046
+reward: 0.0
+Run 1, time_steps 869647
+reward: 0.0
+Run 1, time_steps 870248
+reward: 0.0
+Run 1, time_steps 870849
+reward: 0.0
+Run 1, time_steps 871450
+reward: 0.0
+Run 1, time_steps 872051
+reward: 0.0
+Run 1, time_steps 872652
+reward: 0.0
+Run 1, time_steps 873253
+reward: 0.0
+Run 1, time_steps 873854
+reward: 0.0
+Run 1, time_steps 874455
+reward: 0.0
+Run 1, time_steps 875056
+reward: 0.0
+Run 1, time_steps 875657
+reward: 0.0
+Run 1, time_steps 876258
+reward: 0.0
+Run 1, time_steps 876859
+reward: 0.0
+Run 1, time_steps 877460
+reward: 0.0
+Run 1, time_steps 878061
+reward: 0.0
+Run 1, time_steps 878662
+reward: 0.0
+Run 1, time_steps 879263
+reward: 0.0
+Run 1, time_steps 879864
+reward: 0.0
+Run 1, time_steps 880465
+reward: 0.0
+Run 1, time_steps 881066
+reward: 0.0
+Run 1, time_steps 881667
+reward: 0.0
+Run 1, time_steps 882268
+reward: 0.0
+Run 1, time_steps 882869
+reward: 0.0
+Run 1, time_steps 883470
+reward: 0.0
+Run 1, time_steps 884071
+reward: 0.6
+Run 1, time_steps 884672
+reward: 0.0
+Run 1, time_steps 885273
+reward: 0.0
+Run 1, time_steps 885874
+reward: 0.0
+Run 1, time_steps 886475
+reward: 0.0
+Run 1, time_steps 887076
+reward: 0.0
+Run 1, time_steps 887677
+reward: 0.0
+Run 1, time_steps 888278
+reward: 0.0
+Run 1, time_steps 888879
+reward: 0.0
+Run 1, time_steps 889480
+reward: 0.0
+Run 1, time_steps 890081
+reward: 0.0
+Run 1, time_steps 890682
+reward: 0.0
+Run 1, time_steps 891283
+reward: 0.0
+Run 1, time_steps 891884
+reward: 0.0
+Run 1, time_steps 892485
+reward: 0.0
+Run 1, time_steps 893086
+reward: 0.0
+Run 1, time_steps 893687
+reward: 0.0
+Run 1, time_steps 894288
+reward: 0.0
+Run 1, time_steps 894889
+reward: 0.0
+Run 1, time_steps 895490
+reward: 0.0
+Run 1, time_steps 896091
+reward: 0.0
+Run 1, time_steps 896692
+reward: 0.1
+Run 1, time_steps 897293
+reward: 0.0
+Run 1, time_steps 897894
+reward: 0.0
+Run 1, time_steps 898495
+reward: 0.0
+Run 1, time_steps 899096
+reward: 0.0
+Run 1, time_steps 899697
+reward: 0.0
+Run 1, time_steps 900298
+reward: 0.0
+Run 1, time_steps 900899
+reward: 0.0
+Run 1, time_steps 901500
+reward: 0.0
+Run 1, time_steps 902101
+reward: 0.0
+Run 1, time_steps 902702
+reward: 0.0
+Run 1, time_steps 903303
+reward: 0.1
+Run 1, time_steps 903904
+reward: 0.0
+Run 1, time_steps 904505
+reward: 0.0
+Run 1, time_steps 905106
+reward: 0.0
+Run 1, time_steps 905707
+reward: 0.0
+Run 1, time_steps 906308
+reward: 0.0
+Run 1, time_steps 906909
+reward: 0.0
+Run 1, time_steps 907510
+reward: 0.0
+Run 1, time_steps 908111
+reward: 0.0
+Run 1, time_steps 908712
+reward: 0.0
+Run 1, time_steps 909313
+reward: 0.0
+Run 1, time_steps 909914
+reward: 0.0
+Run 1, time_steps 910515
+reward: 0.0
+Run 1, time_steps 911116
+reward: 0.0
+Run 1, time_steps 911717
+reward: 0.0
+Run 1, time_steps 912318
+reward: 0.0
+Run 1, time_steps 912919
+reward: 0.0
+Run 1, time_steps 913520
+reward: 0.0
+Run 1, time_steps 914121
+reward: 0.0
+Run 1, time_steps 914722
+reward: 0.0
+Run 1, time_steps 915323
+reward: 0.0
+Run 1, time_steps 915924
+reward: 0.0
+Run 1, time_steps 916525
+reward: 0.0
+Run 1, time_steps 917126
+reward: 0.0
+Run 1, time_steps 917727
+reward: 0.0
+Run 1, time_steps 918328
+reward: 0.0
+Run 1, time_steps 918929
+reward: 0.0
+Run 1, time_steps 919530
+reward: 0.0
+Run 1, time_steps 920131
+reward: 0.0
+Run 1, time_steps 920732
+reward: 0.0
+Run 1, time_steps 921333
+reward: 0.0
+Run 1, time_steps 921934
+reward: 0.0
+Run 1, time_steps 922535
+reward: 0.0
+Run 1, time_steps 923136
+reward: 0.0
+Run 1, time_steps 923737
+reward: 0.0
+Run 1, time_steps 924338
+reward: 0.0
+Run 1, time_steps 924939
+reward: 0.0
+Run 1, time_steps 925540
+reward: 0.0
+Run 1, time_steps 926141
+reward: 0.0
+Run 1, time_steps 926742
+reward: 0.0
+Run 1, time_steps 927343
+reward: 0.0
+Run 1, time_steps 927944
+reward: 0.0
+Run 1, time_steps 928545
+reward: 0.0
+Run 1, time_steps 929146
+reward: 0.0
+Run 1, time_steps 929747
+reward: 0.0
+Run 1, time_steps 930348
+reward: 0.0
+Run 1, time_steps 930949
+reward: 0.0
+Run 1, time_steps 931550
+reward: 0.0
+Run 1, time_steps 932151
+reward: 0.0
+Run 1, time_steps 932752
+reward: 0.0
+Run 1, time_steps 933353
+reward: 0.0
+Run 1, time_steps 933954
+reward: 0.0
+Run 1, time_steps 934555
+reward: 0.0
+Run 1, time_steps 935156
+reward: 0.0
+Run 1, time_steps 935757
+reward: 0.0
+Run 1, time_steps 936358
+reward: 0.0
+Run 1, time_steps 936959
+reward: 0.0
+Run 1, time_steps 937560
+reward: 0.0
+Run 1, time_steps 938161
+reward: 0.0
+Run 1, time_steps 938762
+reward: 0.0
+Run 1, time_steps 939363
+reward: 0.0
+Run 1, time_steps 939964
+reward: 0.0
+Run 1, time_steps 940565
+reward: 0.0
+Run 1, time_steps 941166
+reward: 0.0
+Run 1, time_steps 941767
+reward: 0.0
+Run 1, time_steps 942368
+reward: 0.0
+Run 1, time_steps 942969
+reward: 0.0
+Run 1, time_steps 943570
+reward: 0.0
+Run 1, time_steps 944171
+reward: 0.0
+Run 1, time_steps 944772
+reward: 0.0
+Run 1, time_steps 945373
+reward: 0.0
+Run 1, time_steps 945974
+reward: 0.0
+Run 1, time_steps 946575
+reward: 0.0
+Run 1, time_steps 947176
+reward: 0.0
+Run 1, time_steps 947777
+reward: 0.0
+Run 1, time_steps 948378
+reward: 0.0
+Run 1, time_steps 948979
+reward: 0.0
+Run 1, time_steps 949580
+reward: 0.0
+Run 1, time_steps 950181
+reward: 0.0
+Run 1, time_steps 950782
+reward: 0.0
+Run 1, time_steps 951383
+reward: 0.0
+Run 1, time_steps 951984
+reward: 0.0
+Run 1, time_steps 952585
+reward: 0.0
+Run 1, time_steps 953186
+reward: 0.0
+Run 1, time_steps 953787
+reward: 0.0
+Run 1, time_steps 954388
+reward: 0.0
+Run 1, time_steps 954989
+reward: 0.0
+Run 1, time_steps 955590
+reward: 0.0
+Run 1, time_steps 956191
+reward: 0.0
+Run 1, time_steps 956792
+reward: 0.0
+Run 1, time_steps 957393
+reward: 0.0
+Run 1, time_steps 957994
+reward: 0.0
+Run 1, time_steps 958595
+reward: 0.0
+Run 1, time_steps 959196
+reward: 0.0
+Run 1, time_steps 959797
+reward: 0.0
+Run 1, time_steps 960398
+reward: 0.0
+Run 1, time_steps 960999
+reward: 0.0
+Run 1, time_steps 961600
+reward: 0.0
+Run 1, time_steps 962201
+reward: 0.0
+Run 1, time_steps 962802
+reward: 0.6
+Run 1, time_steps 963403
+reward: 0.0
+Run 1, time_steps 964004
+reward: 0.0
+Run 1, time_steps 964605
+reward: 0.0
+Run 1, time_steps 965206
+reward: 0.0
+Run 1, time_steps 965807
+reward: 0.0
+Run 1, time_steps 966408
+reward: 0.0
+Run 1, time_steps 967009
+reward: 0.0
+Run 1, time_steps 967610
+reward: 0.0
+Run 1, time_steps 968211
+reward: 0.0
+Run 1, time_steps 968812
+reward: 0.0
+Run 1, time_steps 969413
+reward: 0.0
+Run 1, time_steps 970014
+reward: 0.0
+Run 1, time_steps 970615
+reward: 0.0
+Run 1, time_steps 971216
+reward: 0.0
+Run 1, time_steps 971817
+reward: 0.0
+Run 1, time_steps 972418
+reward: 0.0
+Run 1, time_steps 973019
+reward: 0.0
+Run 1, time_steps 973620
+reward: 0.0
+Run 1, time_steps 974221
+reward: 0.0
+Run 1, time_steps 974822
+reward: 0.0
+Run 1, time_steps 975423
+reward: 0.0
+Run 1, time_steps 976024
+reward: 0.0
+Run 1, time_steps 976625
+reward: 0.1
+Run 1, time_steps 977226
+reward: 0.0
+Run 1, time_steps 977827
+reward: 0.6
+Run 1, time_steps 978428
+reward: 0.6
+Run 1, time_steps 979029
+reward: 0.0
+Run 1, time_steps 979630
+reward: 0.0
+Run 1, time_steps 980231
+reward: 0.0
+Run 1, time_steps 980832
+reward: 0.6
+Run 1, time_steps 981433
+reward: 0.0
+Run 1, time_steps 982034
+reward: 0.0
+Run 1, time_steps 982635
+reward: 0.0
+Run 1, time_steps 983236
+reward: 0.0
+Run 1, time_steps 983837
+reward: 0.0
+Run 1, time_steps 984438
+reward: 0.0
+Run 1, time_steps 985039
+reward: 0.6
+Run 1, time_steps 985640
+reward: 0.0
+Run 1, time_steps 986241
+reward: 0.0
+Run 1, time_steps 986842
+reward: 0.0
+Run 1, time_steps 987443
+reward: 0.0
+Run 1, time_steps 988044
+reward: 0.0
+Run 1, time_steps 988645
+reward: 0.0
+Run 1, time_steps 989246
+reward: 0.0
+Run 1, time_steps 989847
+reward: 0.0
+Run 1, time_steps 990448
+reward: 0.0
+Run 1, time_steps 991049
+reward: 0.0
+Run 1, time_steps 991650
+reward: 0.0
+Run 1, time_steps 992251
+reward: 0.0
+Run 1, time_steps 992852
+reward: 0.0
+Run 1, time_steps 993453
+reward: 0.0
+Run 1, time_steps 994054
+reward: 0.0
+Run 1, time_steps 994655
+reward: 0.0
+Run 1, time_steps 995256
+reward: 0.0
+Run 1, time_steps 995857
+reward: 0.0
+Run 1, time_steps 996458
+reward: 0.0
+Run 1, time_steps 997059
+reward: 0.0
+Run 1, time_steps 997660
+reward: 0.0
+Run 1, time_steps 998261
+reward: 0.0
+Run 1, time_steps 998862
+reward: 0.0
+Run 1, time_steps 999463
+reward: 0.0
+Run 1, time_steps 1000064
+reward: 0.0
+Run 1, time_steps 1000665
+reward: 0.0
+Run 1, time_steps 1001266
+reward: 0.0
+Run 1, time_steps 1001867
+reward: 0.0
+Run 1, time_steps 1002468
+reward: 0.0
+Run 1, time_steps 1003069
+reward: 0.1
+Run 1, time_steps 1003670
+reward: 0.0
+Run 1, time_steps 1004271
+reward: 0.6
+Run 1, time_steps 1004872
+reward: 0.0
+Run 1, time_steps 1005473
+reward: 0.6
+Run 1, time_steps 1006074
+reward: 0.0
+Run 1, time_steps 1006675
+reward: 0.6
+Run 1, time_steps 1007276
+reward: 0.0
+Run 1, time_steps 1007877
+reward: 0.0
+Run 1, time_steps 1008478
+reward: 0.0
+Run 1, time_steps 1009079
+reward: 0.1
+Run 1, time_steps 1009680
+reward: 0.0
+Run 1, time_steps 1010281
+reward: 0.0
+Run 1, time_steps 1010882
+reward: 0.0
+Run 1, time_steps 1011483
+reward: 0.6
+Run 1, time_steps 1012084
+reward: 0.0
+Run 1, time_steps 1012685
+reward: 0.0
+Run 1, time_steps 1013286
+reward: 0.0
+Run 1, time_steps 1013887
+reward: 0.0
+Run 1, time_steps 1014488
+reward: 0.0
+Run 1, time_steps 1015089
+reward: 0.0
+Run 1, time_steps 1015690
+reward: 0.0
+Run 1, time_steps 1016291
+reward: 0.0
+Run 1, time_steps 1016892
+reward: 0.0
+Run 1, time_steps 1017493
+reward: 0.0
+Run 1, time_steps 1018094
+reward: 0.0
+Run 1, time_steps 1018695
+reward: 0.0
+Run 1, time_steps 1019296
+reward: 0.0
+Run 1, time_steps 1019897
+reward: 0.0
+Run 1, time_steps 1020498
+reward: 0.0
+Run 1, time_steps 1021099
+reward: 0.0
+Run 1, time_steps 1021700
+reward: 0.6
+Run 1, time_steps 1022301
+reward: 0.6
+Run 1, time_steps 1022902
+reward: 0.6
+Run 1, time_steps 1023503
+reward: 0.0
+Run 1, time_steps 1024104
+reward: 0.0
+Run 1, time_steps 1024705
+reward: 0.0
+Run 1, time_steps 1025306
+reward: 0.6
+Run 1, time_steps 1025907
+reward: 0.6
+Run 1, time_steps 1026508
+reward: 0.0
+Run 1, time_steps 1027109
+reward: 0.6
+Run 1, time_steps 1027710
+reward: 0.0
+Run 1, time_steps 1028311
+reward: 0.0
+Run 1, time_steps 1028912
+reward: 0.0
+Run 1, time_steps 1029513
+reward: 0.1
+Run 1, time_steps 1030114
+reward: 0.0
+Run 1, time_steps 1030715
+reward: 0.6
+Run 1, time_steps 1031316
+reward: 0.0
+Run 1, time_steps 1031917
+reward: 0.0
+Run 1, time_steps 1032518
+reward: 0.0
+Run 1, time_steps 1033119
+reward: 0.0
+Run 1, time_steps 1033720
+reward: 0.0
+Run 1, time_steps 1034321
+reward: 0.0
+Run 1, time_steps 1034922
+reward: 0.0
+Run 1, time_steps 1035523
+reward: 0.0
+Run 1, time_steps 1036124
+reward: 0.0
+Run 1, time_steps 1036725
+reward: 0.0
+Run 1, time_steps 1037326
+reward: 0.0
+Run 1, time_steps 1037927
+reward: 0.0
+Run 1, time_steps 1038528
+reward: 0.0
+Run 1, time_steps 1039129
+reward: 0.0
+Run 1, time_steps 1039730
+reward: 0.0
+Run 1, time_steps 1040331
+reward: 0.6
+Run 1, time_steps 1040932
+reward: 0.0
+Run 1, time_steps 1041533
+reward: 0.0
+Run 1, time_steps 1042134
+reward: 0.6
+Run 1, time_steps 1042735
+reward: 0.6
+Run 1, time_steps 1043336
+reward: 0.0
+Run 1, time_steps 1043937
+reward: 0.0
+Run 1, time_steps 1044538
+reward: 0.1
+Run 1, time_steps 1045139
+reward: 0.0
+Run 1, time_steps 1045740
+reward: 0.6
+Run 1, time_steps 1046341
+reward: 0.0
+Run 1, time_steps 1046942
+reward: 0.0
+Run 1, time_steps 1047543
+reward: 0.0
+Run 1, time_steps 1048144
+reward: 0.0
+Run 1, time_steps 1048745
+reward: 0.0
+Run 1, time_steps 1049346
+reward: 0.0
+Run 1, time_steps 1049947
+reward: 0.0
+Run 1, time_steps 1050548
+reward: 0.0
+Run 1, time_steps 1051149
+reward: 0.0
+Run 1, time_steps 1051750
+reward: 0.0
+Run 1, time_steps 1052351
+reward: 0.0
+Run 1, time_steps 1052952
+reward: 0.0
+Run 1, time_steps 1053553
+reward: 0.0
+Run 1, time_steps 1054154
+reward: 0.0
+Run 1, time_steps 1054755
+reward: 0.0
+Run 1, time_steps 1055356
+reward: 0.0
+Run 1, time_steps 1055957
+reward: 0.0
+Run 1, time_steps 1056558
+reward: 0.0
+Run 1, time_steps 1057159
+reward: 0.0
+Run 1, time_steps 1057760
+reward: 0.0
+Run 1, time_steps 1058361
+reward: 0.0
+Run 1, time_steps 1058962
+reward: 0.0
+Run 1, time_steps 1059563
+reward: 0.1
+Run 1, time_steps 1060164
+reward: 0.6
+Run 1, time_steps 1060765
+reward: 0.1
+Run 1, time_steps 1061366
+reward: 0.0
+Run 1, time_steps 1061967
+reward: 0.0
+Run 1, time_steps 1062568
+reward: 0.0
+Run 1, time_steps 1063169
+reward: 0.0
+Run 1, time_steps 1063770
+reward: 0.0
+Run 1, time_steps 1064371
+reward: 0.0
+Run 1, time_steps 1064972
+reward: 0.0
+Run 1, time_steps 1065573
+reward: 0.0
+Run 1, time_steps 1066174
+reward: 0.0
+Run 1, time_steps 1066775
+reward: 0.0
+Run 1, time_steps 1067376
+reward: 0.0
+Run 1, time_steps 1067977
+reward: 0.0
+Run 1, time_steps 1068578
+reward: 0.0
+Run 1, time_steps 1069179
+reward: 0.0
+Run 1, time_steps 1069780
+reward: 0.0
+Run 1, time_steps 1070381
+reward: 0.0
+Run 1, time_steps 1070982
+reward: 0.0
+Run 1, time_steps 1071583
+reward: 0.0
+Run 1, time_steps 1072184
+reward: 0.0
+Run 1, time_steps 1072785
+reward: 0.0
+Run 1, time_steps 1073386
+reward: 0.6
+Run 1, time_steps 1073987
+reward: 0.6
+Run 1, time_steps 1074588
+reward: 0.6
+Run 1, time_steps 1075189
+reward: 0.0
+Run 1, time_steps 1075790
+reward: 0.6
+Run 1, time_steps 1076391
+reward: 0.0
+Run 1, time_steps 1076992
+reward: 0.0
+Run 1, time_steps 1077593
+reward: 0.0
+Run 1, time_steps 1078194
+reward: 0.0
+Run 1, time_steps 1078795
+reward: 0.0
+Run 1, time_steps 1079396
+reward: 0.0
+Run 1, time_steps 1079997
+reward: 0.0
+Run 1, time_steps 1080598
+reward: 0.0
+Run 1, time_steps 1081199
+reward: 0.0
+Run 1, time_steps 1081800
+reward: 0.0
+Run 1, time_steps 1082401
+reward: 0.0
+Run 1, time_steps 1083002
+reward: 0.6
+Run 1, time_steps 1083603
+reward: 0.6
+Run 1, time_steps 1084204
+reward: 0.0
+Run 1, time_steps 1084805
+reward: 0.6
+Run 1, time_steps 1085406
+reward: 1.2
+Run 1, time_steps 1086007
+reward: 0.0
+Run 1, time_steps 1086608
+reward: 0.0
+Run 1, time_steps 1087209
+reward: 0.1
+Run 1, time_steps 1087810
+reward: 0.0
+Run 1, time_steps 1088411
+reward: 0.0
+Run 1, time_steps 1089012
+reward: 0.0
+Run 1, time_steps 1089613
+reward: 0.0
+Run 1, time_steps 1090214
+reward: 0.0
+Run 1, time_steps 1090815
+reward: 0.0
+Run 1, time_steps 1091416
+reward: 0.0
+Run 1, time_steps 1092017
+reward: 0.0
+Run 1, time_steps 1092618
+reward: 0.0
+Run 1, time_steps 1093219
+reward: 0.1
+Run 1, time_steps 1093820
+reward: 0.0
+Run 1, time_steps 1094421
+reward: 0.0
+Run 1, time_steps 1095022
+reward: 0.6
+Run 1, time_steps 1095623
+reward: 0.0
+Run 1, time_steps 1096224
+reward: 0.0
+Run 1, time_steps 1096825
+reward: 0.6
+Run 1, time_steps 1097426
+reward: 0.6
+Run 1, time_steps 1098027
+reward: 0.6
+Run 1, time_steps 1098628
+reward: 0.0
+Run 1, time_steps 1099229
+reward: 0.0
+Run 1, time_steps 1099830
+reward: 0.0
+Run 1, time_steps 1100431
+reward: 0.0
+Run 1, time_steps 1101032
+reward: 0.0
+Run 1, time_steps 1101633
+reward: 0.0
+Run 1, time_steps 1102234
+reward: 0.0
+Run 1, time_steps 1102835
+reward: 0.0
+Run 1, time_steps 1103436
+reward: 0.0
+Run 1, time_steps 1104037
+reward: 0.0
+Run 1, time_steps 1104638
+reward: 0.0
+Run 1, time_steps 1105239
+reward: 0.1
+Run 1, time_steps 1105840
+reward: 0.0
+Run 1, time_steps 1106441
+reward: 0.6
+Run 1, time_steps 1107042
+reward: 0.6
+Run 1, time_steps 1107643
+reward: 0.1
+Run 1, time_steps 1108244
+reward: 0.0
+Run 1, time_steps 1108845
+reward: 0.0
+Run 1, time_steps 1109446
+reward: 0.0
+Run 1, time_steps 1110047
+reward: 0.0
+Run 1, time_steps 1110648
+reward: 0.0
+Run 1, time_steps 1111249
+reward: 0.0
+Run 1, time_steps 1111850
+reward: 0.0
+Run 1, time_steps 1112451
+reward: 0.0
+Run 1, time_steps 1113052
+reward: 0.0
+Run 1, time_steps 1113653
+reward: 0.0
+Run 1, time_steps 1114254
+reward: 0.0
+Run 1, time_steps 1114855
+reward: 0.6
+Run 1, time_steps 1115456
+reward: 0.0
+Run 1, time_steps 1116057
+reward: 0.1
+Run 1, time_steps 1116658
+reward: 0.0
+Run 1, time_steps 1117259
+reward: 0.1
+Run 1, time_steps 1117860
+reward: 0.0
+Run 1, time_steps 1118461
+reward: 0.6
+Run 1, time_steps 1119062
+reward: 1.2
+Run 1, time_steps 1119663
+reward: 0.6
+Run 1, time_steps 1120264
+reward: 0.6
+Run 1, time_steps 1120865
+reward: 0.0
+Run 1, time_steps 1121466
+reward: 0.0
+Run 1, time_steps 1122067
+reward: 0.0
+Run 1, time_steps 1122668
+reward: 0.0
+Run 1, time_steps 1123269
+reward: 0.0
+Run 1, time_steps 1123870
+reward: 0.1
+Run 1, time_steps 1124471
+reward: 0.0
+Run 1, time_steps 1125072
+reward: 0.0
+Run 1, time_steps 1125673
+reward: 0.0
+Run 1, time_steps 1126274
+reward: 0.0
+Run 1, time_steps 1126875
+reward: 0.0
+Run 1, time_steps 1127476
+reward: 0.0
+Run 1, time_steps 1128077
+reward: 0.0
+Run 1, time_steps 1128678
+reward: 0.0
+Run 1, time_steps 1129279
+reward: 0.0
+Run 1, time_steps 1129880
+reward: 0.0
+Run 1, time_steps 1130481
+reward: 0.0
+Run 1, time_steps 1131082
+reward: 0.0
+Run 1, time_steps 1131683
+reward: 0.0
+Run 1, time_steps 1132284
+reward: 0.0
+Run 1, time_steps 1132885
+reward: 0.0
+Run 1, time_steps 1133486
+reward: 0.0
+Run 1, time_steps 1134087
+reward: 0.0
+Run 1, time_steps 1134688
+reward: 0.0
+Run 1, time_steps 1135289
+reward: 0.0
+Run 1, time_steps 1135890
+reward: 0.0
+Run 1, time_steps 1136491
+reward: 0.0
+Run 1, time_steps 1137092
+reward: 0.0
+Run 1, time_steps 1137693
+reward: 0.0
+Run 1, time_steps 1138294
+reward: 0.0
+Run 1, time_steps 1138895
+reward: 0.0
+Run 1, time_steps 1139496
+reward: 0.6
+Run 1, time_steps 1140097
+reward: 0.0
+Run 1, time_steps 1140698
+reward: 0.0
+Run 1, time_steps 1141299
+reward: 0.0
+Run 1, time_steps 1141900
+reward: 0.0
+Run 1, time_steps 1142501
+reward: 0.0
+Run 1, time_steps 1143102
+reward: 0.7
+Run 1, time_steps 1143703
+reward: 0.0
+Run 1, time_steps 1144304
+reward: 0.0
+Run 1, time_steps 1144905
+reward: 0.0
+Run 1, time_steps 1145506
+reward: 0.0
+Run 1, time_steps 1146107
+reward: 0.0
+Run 1, time_steps 1146708
+reward: 0.0
+Run 1, time_steps 1147309
+reward: 0.0
+Run 1, time_steps 1147910
+reward: 0.6
+Run 1, time_steps 1148511
+reward: 0.0
+Run 1, time_steps 1149112
+reward: 0.0
+Run 1, time_steps 1149713
+reward: 0.0
+Run 1, time_steps 1150314
+reward: 0.0
+Run 1, time_steps 1150915
+reward: 0.0
+Run 1, time_steps 1151516
+reward: 0.0
+Run 1, time_steps 1152117
+reward: 0.0
+Run 1, time_steps 1152718
+reward: 0.0
+Run 1, time_steps 1153319
+reward: 0.0
+Run 1, time_steps 1153920
+reward: 0.0
+Run 1, time_steps 1154521
+reward: 0.6
+Run 1, time_steps 1155122
+reward: 0.0
+Run 1, time_steps 1155723
+reward: 0.1
+Run 1, time_steps 1156324
+reward: 0.6
+Run 1, time_steps 1156925
+reward: 0.0
+Run 1, time_steps 1157526
+reward: 0.0
+Run 1, time_steps 1158127
+reward: 0.0
+Run 1, time_steps 1158728
+reward: 0.0
+Run 1, time_steps 1159329
+reward: 0.0
+Run 1, time_steps 1159930
+reward: 0.0
+Run 1, time_steps 1160531
+reward: 0.0
+Run 1, time_steps 1161132
+reward: 0.0
+Run 1, time_steps 1161733
+reward: 0.6
+Run 1, time_steps 1162334
+reward: 0.0
+Run 1, time_steps 1162935
+reward: 0.0
+Run 1, time_steps 1163536
+reward: 0.0
+Run 1, time_steps 1164137
+reward: 0.0
+Run 1, time_steps 1164738
+reward: 0.0
+Run 1, time_steps 1165339
+reward: 0.0
+Run 1, time_steps 1165940
+reward: 0.0
+Run 1, time_steps 1166541
+reward: 0.0
+Run 1, time_steps 1167142
+reward: 0.6
+Run 1, time_steps 1167743
+reward: 0.0
+Run 1, time_steps 1168344
+reward: 0.0
+Run 1, time_steps 1168945
+reward: 0.0
+Run 1, time_steps 1169546
+reward: 0.0
+Run 1, time_steps 1170147
+reward: 0.0
+Run 1, time_steps 1170748
+reward: 0.1
+Run 1, time_steps 1171349
+reward: 0.0
+Run 1, time_steps 1171950
+reward: 0.6
+Run 1, time_steps 1172551
+reward: 0.0
+Run 1, time_steps 1173152
+reward: 0.0
+Run 1, time_steps 1173753
+reward: 0.6
+Run 1, time_steps 1174354
+reward: 0.0
+Run 1, time_steps 1174955
+reward: 0.0
+Run 1, time_steps 1175556
+reward: 0.0
+Run 1, time_steps 1176157
+reward: 0.0
+Run 1, time_steps 1176758
+reward: 0.0
+Run 1, time_steps 1177359
+reward: 0.0
+Run 1, time_steps 1177960
+reward: 0.0
+Run 1, time_steps 1178561
+reward: 0.0
+Run 1, time_steps 1179162
+reward: 0.1
+Run 1, time_steps 1179763
+reward: 0.1
+Run 1, time_steps 1180364
+reward: 0.0
+Run 1, time_steps 1180965
+reward: 0.0
+Run 1, time_steps 1181566
+reward: 0.0
+Run 1, time_steps 1182167
+reward: 0.0
+Run 1, time_steps 1182768
+reward: 0.0
+Run 1, time_steps 1183369
+reward: 0.0
+Run 1, time_steps 1183970
+reward: 0.0
+Run 1, time_steps 1184571
+reward: 0.0
+Run 1, time_steps 1185172
+reward: 0.1
+Run 1, time_steps 1185773
+reward: 0.0
+Run 1, time_steps 1186374
+reward: 0.6
+Run 1, time_steps 1186975
+reward: 0.0
+Run 1, time_steps 1187576
+reward: 0.0
+Run 1, time_steps 1188177
+reward: 0.0
+Run 1, time_steps 1188778
+reward: 0.0
+Run 1, time_steps 1189379
+reward: 0.0
+Run 1, time_steps 1189980
+reward: 0.0
+Run 1, time_steps 1190581
+reward: 0.0
+Run 1, time_steps 1191182
+reward: 0.0
+Run 1, time_steps 1191783
+reward: 0.0
+Run 1, time_steps 1192384
+reward: 0.0
+Run 1, time_steps 1192985
+reward: 0.0
+Run 1, time_steps 1193586
+reward: 0.1
+Run 1, time_steps 1194187
+reward: 0.0
+Run 1, time_steps 1194788
+reward: 0.6
+Run 1, time_steps 1195389
+reward: 0.1
+Run 1, time_steps 1195990
+reward: 0.0
+Run 1, time_steps 1196591
+reward: 0.0
+Run 1, time_steps 1197192
+reward: 0.0
+Run 1, time_steps 1197793
+reward: 0.0
+Run 1, time_steps 1198394
+reward: 0.0
+Run 1, time_steps 1198995
+reward: 0.0
+Run 1, time_steps 1199596
+reward: 0.0
+Run 1, time_steps 1200197
+reward: 0.0
+Run 1, time_steps 1200798
+reward: 0.0
+Run 1, time_steps 1201399
+reward: 0.1
+Run 1, time_steps 1202000
+reward: 0.0
+Run 1, time_steps 1202601
+reward: 0.0
+Run 1, time_steps 1203202
+reward: 0.6
+Run 1, time_steps 1203803
+reward: 0.6
+Run 1, time_steps 1204404
+reward: 1.2
+Run 1, time_steps 1205005
+reward: 0.6
+Run 1, time_steps 1205606
+reward: 0.1
+Run 1, time_steps 1206207
+reward: 0.0
+Run 1, time_steps 1206808
+reward: 0.0
+Run 1, time_steps 1207409
+reward: 0.0
+Run 1, time_steps 1208010
+reward: 0.0
+Run 1, time_steps 1208611
+reward: 0.0
+Run 1, time_steps 1209212
+reward: 0.0
+Run 1, time_steps 1209813
+reward: 0.0
+Run 1, time_steps 1210414
+reward: 0.0
+Run 1, time_steps 1211015
+reward: 0.0
+Run 1, time_steps 1211616
+reward: 0.0
+Run 1, time_steps 1212217
+reward: 0.6
+Run 1, time_steps 1212818
+reward: 0.1
+Run 1, time_steps 1213419
+reward: 0.1
+Run 1, time_steps 1214020
+reward: 0.1
+Run 1, time_steps 1214621
+reward: 0.6
+Run 1, time_steps 1215222
+reward: 0.1
+Run 1, time_steps 1215823
+reward: 0.0
+Run 1, time_steps 1216424
+reward: 0.0
+Run 1, time_steps 1217025
+reward: 0.0
+Run 1, time_steps 1217626
+reward: 0.0
+Run 1, time_steps 1218227
+reward: 0.0
+Run 1, time_steps 1218828
+reward: 0.0
+Run 1, time_steps 1219429
+reward: 0.0
+Run 1, time_steps 1220030
+reward: 0.0
+Run 1, time_steps 1220631
+reward: 0.0
+Run 1, time_steps 1221232
+reward: 0.0
+Run 1, time_steps 1221833
+reward: 0.0
+Run 1, time_steps 1222434
+reward: 0.0
+Run 1, time_steps 1223035
+reward: 0.0
+Run 1, time_steps 1223636
+reward: 0.0
+Run 1, time_steps 1224237
+reward: 0.0
+Run 1, time_steps 1224838
+reward: 0.0
+Run 1, time_steps 1225439
+reward: 0.0
+Run 1, time_steps 1226040
+reward: 0.0
+Run 1, time_steps 1226641
+reward: 0.0
+Run 1, time_steps 1227242
+reward: 0.0
+Run 1, time_steps 1227843
+reward: 0.0
+Run 1, time_steps 1228444
+reward: 0.0
+Run 1, time_steps 1229045
+reward: 0.0
+Run 1, time_steps 1229646
+reward: 0.0
+Run 1, time_steps 1230247
+reward: 0.0
+Run 1, time_steps 1230848
+reward: 0.0
+Run 1, time_steps 1231449
+reward: 0.0
+Run 1, time_steps 1232050
+reward: 0.0
+Run 1, time_steps 1232651
+reward: 0.0
+Run 1, time_steps 1233252
+reward: 0.0
+Run 1, time_steps 1233853
+reward: 0.0
+Run 1, time_steps 1234454
+reward: 0.0
+Run 1, time_steps 1235055
+reward: 0.1
+Run 1, time_steps 1235656
+reward: 0.1
+Run 1, time_steps 1236257
+reward: 0.0
+Run 1, time_steps 1236858
+reward: 0.0
+Run 1, time_steps 1237459
+reward: 0.1
+Run 1, time_steps 1238060
+reward: 0.0
+Run 1, time_steps 1238661
+reward: 0.0
+Run 1, time_steps 1239262
+reward: 0.1
+Run 1, time_steps 1239863
+reward: 0.0
+Run 1, time_steps 1240464
+reward: 0.0
+Run 1, time_steps 1241065
+reward: 0.0
+Run 1, time_steps 1241666
+reward: 0.0
+Run 1, time_steps 1242267
+reward: 0.0
+Run 1, time_steps 1242868
+reward: 0.0
+Run 1, time_steps 1243469
+reward: 0.0
+Run 1, time_steps 1244070
+reward: 0.0
+Run 1, time_steps 1244671
+reward: 0.0
+Run 1, time_steps 1245272
+reward: 0.0
+Run 1, time_steps 1245873
+reward: 0.0
+Run 1, time_steps 1246474
+reward: 0.0
+Run 1, time_steps 1247075
+reward: 0.0
+Run 1, time_steps 1247676
+reward: 0.1
+Run 1, time_steps 1248277
+reward: 0.0
+Run 1, time_steps 1248878
+reward: 0.0
+Run 1, time_steps 1249479
+reward: 0.0
+Run 1, time_steps 1250080
+reward: 0.0
+Run 1, time_steps 1250681
+reward: 0.0
+Run 1, time_steps 1251282
+reward: 0.0
+Run 1, time_steps 1251883
+reward: 0.0
+Run 1, time_steps 1252484
+reward: 0.0
+Run 1, time_steps 1253085
+reward: 0.0
+Run 1, time_steps 1253686
+reward: 0.0
+Run 1, time_steps 1254287
+reward: 0.0
+Run 1, time_steps 1254888
+reward: 0.0
+Run 1, time_steps 1255489
+reward: 0.0
+Run 1, time_steps 1256090
+reward: 0.0
+Run 1, time_steps 1256691
+reward: 0.0
+Run 1, time_steps 1257292
+reward: 0.0
+Run 1, time_steps 1257893
+reward: 0.0
+Run 1, time_steps 1258494
+reward: 0.0
+Run 1, time_steps 1259095
+reward: 0.0
+Run 1, time_steps 1259696
+reward: 0.0
+Run 1, time_steps 1260297
+reward: 0.1
+Run 1, time_steps 1260898
+reward: 0.1
+Run 1, time_steps 1261499
+reward: 0.0
+Run 1, time_steps 1262100
+reward: 0.0
+Run 1, time_steps 1262701
+reward: 0.0
+Run 1, time_steps 1263302
+reward: 0.0
+Run 1, time_steps 1263903
+reward: 0.0
+Run 1, time_steps 1264504
+reward: 0.0
+Run 1, time_steps 1265105
+reward: 0.0
+Run 1, time_steps 1265706
+reward: 0.0
+Run 1, time_steps 1266307
+reward: 0.0
+Run 1, time_steps 1266908
+reward: 0.6
+Run 1, time_steps 1267509
+reward: 0.0
+Run 1, time_steps 1268110
+reward: 0.0
+Run 1, time_steps 1268711
+reward: 0.0
+Run 1, time_steps 1269312
+reward: 0.0
+Run 1, time_steps 1269913
+reward: 0.0
+Run 1, time_steps 1270514
+reward: 0.0
+Run 1, time_steps 1271115
+reward: 0.0
+Run 1, time_steps 1271716
+reward: 0.0
+Run 1, time_steps 1272317
+reward: 0.0
+Run 1, time_steps 1272918
+reward: 0.0
+Run 1, time_steps 1273519
+reward: 0.6
+Run 1, time_steps 1274120
+reward: 0.0
+Run 1, time_steps 1274721
+reward: 0.0
+Run 1, time_steps 1275322
+reward: 0.0
+Run 1, time_steps 1275923
+reward: 0.0
+Run 1, time_steps 1276524
+reward: 0.0
+Run 1, time_steps 1277125
+reward: 0.0
+Run 1, time_steps 1277726
+reward: 0.0
+Run 1, time_steps 1278327
+reward: 0.0
+Run 1, time_steps 1278928
+reward: 0.6
+Run 1, time_steps 1279529
+reward: 0.0
+Run 1, time_steps 1280130
+reward: 0.0
+Run 1, time_steps 1280731
+reward: 0.0
+Run 1, time_steps 1281332
+reward: 0.0
+Run 1, time_steps 1281933
+reward: 0.0
+Run 1, time_steps 1282534
+reward: 0.0
+Run 1, time_steps 1283135
+reward: 0.0
+Run 1, time_steps 1283736
+reward: 0.0
+Run 1, time_steps 1284337
+reward: 0.0
+Run 1, time_steps 1284938
+reward: 0.0
+Run 1, time_steps 1285539
+reward: 0.0
+Run 1, time_steps 1286140
+reward: 0.0
+Run 1, time_steps 1286741
+
+reward: 0.0
+Run 1, time_steps 1287342
+reward: 0.6
+Run 1, time_steps 1287943
+reward: 0.0
+Run 1, time_steps 1288544
+reward: 0.0
+Run 1, time_steps 1289145
+reward: 0.0
+Run 1, time_steps 1289746
+reward: 0.6
+Run 1, time_steps 1290347
+reward: 0.0
+Run 1, time_steps 1290948
+reward: 0.0
+Run 1, time_steps 1291549
+reward: 0.0
+Run 1, time_steps 1292150
+reward: 0.0
+Run 1, time_steps 1292751
+reward: 0.0
+Run 1, time_steps 1293352
+reward: 0.0
+Run 1, time_steps 1293953
+reward: 0.0
+Run 1, time_steps 1294554
+reward: 0.0
+Run 1, time_steps 1295155
+reward: 0.1
+Run 1, time_steps 1295756
+reward: 0.0
+Run 1, time_steps 1296357
+reward: 0.0
+Run 1, time_steps 1296958
+reward: 0.6
+Run 1, time_steps 1297559
+reward: 0.0
+Run 1, time_steps 1298160
+reward: 0.1
+Run 1, time_steps 1298761
+reward: 0.0
+Run 1, time_steps 1299362
+reward: 0.1
+Run 1, time_steps 1299963
+reward: 0.0
+Run 1, time_steps 1300564
+reward: 0.0
+Run 1, time_steps 1301165
+reward: 0.0
+Run 1, time_steps 1301766
+reward: 0.0
+Run 1, time_steps 1302367
+reward: 0.0
+Run 1, time_steps 1302968
+reward: 0.0
+Run 1, time_steps 1303569
+reward: 0.0
+Run 1, time_steps 1304170
+reward: 0.6
+Run 1, time_steps 1304771
+reward: 0.0
+Run 1, time_steps 1305372
+reward: 0.1
+Run 1, time_steps 1305973
+reward: 0.0
+Run 1, time_steps 1306574
+reward: 0.6
+Run 1, time_steps 1307175
+reward: 0.1
+Run 1, time_steps 1307776
+reward: 0.0
+Run 1, time_steps 1308377
+reward: 0.6
+Run 1, time_steps 1308978
+reward: 0.0
+Run 1, time_steps 1309579
+reward: 0.6
+Run 1, time_steps 1310180
+reward: 0.0
+Run 1, time_steps 1310781
+reward: 0.0
+Run 1, time_steps 1311382
+reward: 0.0
+Run 1, time_steps 1311983
+reward: 0.0
+Run 1, time_steps 1312584
+reward: 0.0
+Run 1, time_steps 1313185
+reward: 0.0
+Run 1, time_steps 1313786
+reward: 0.0
+Run 1, time_steps 1314387
+reward: 0.6
+Run 1, time_steps 1314988
+reward: 0.0
+Run 1, time_steps 1315589
+reward: 0.0
+Run 1, time_steps 1316190
+reward: 0.6
+Run 1, time_steps 1316791
+reward: 0.6
+Run 1, time_steps 1317392
+reward: 0.0
+Run 1, time_steps 1317993
+reward: 0.6
+Run 1, time_steps 1318594
+reward: 0.0
+Run 1, time_steps 1319195
+reward: 0.0
+Run 1, time_steps 1319796
+reward: 0.0
+Run 1, time_steps 1320397
+reward: 0.0
+Run 1, time_steps 1320998
+reward: 0.0
+Run 1, time_steps 1321599
+reward: 0.0
+Run 1, time_steps 1322200
+reward: 0.1
+Run 1, time_steps 1322801
+reward: 0.0
+Run 1, time_steps 1323402
+reward: 0.0
+Run 1, time_steps 1324003
+reward: 0.0
+Run 1, time_steps 1324604
+reward: 0.0
+Run 1, time_steps 1325205
+reward: 0.0
+Run 1, time_steps 1325806
+reward: 0.0
+Run 1, time_steps 1326407
+reward: 0.0
+Run 1, time_steps 1327008
+reward: 0.0
+Run 1, time_steps 1327609
+reward: 0.0
+Run 1, time_steps 1328210
+reward: 0.0
+Run 1, time_steps 1328811
+reward: 0.0
+Run 1, time_steps 1329412
+reward: 0.0
+Run 1, time_steps 1330013
+reward: 0.0
+Run 1, time_steps 1330614
+reward: 0.0
+Run 1, time_steps 1331215
+reward: 0.0
+Run 1, time_steps 1331816
+reward: 0.0
+Run 1, time_steps 1332417
+reward: 0.0
+Run 1, time_steps 1333018
+reward: 0.0
+Run 1, time_steps 1333619
+reward: 0.0
+Run 1, time_steps 1334220
+reward: 0.0
+Run 1, time_steps 1334821
+reward: 0.0
+Run 1, time_steps 1335422
+reward: 0.0
+Run 1, time_steps 1336023
+reward: 0.0
+Run 1, time_steps 1336624
+reward: 0.0
+Run 1, time_steps 1337225
+reward: 0.0
+Run 1, time_steps 1337826
+reward: 0.0
+Run 1, time_steps 1338427
+reward: 0.0
+Run 1, time_steps 1339028
+reward: 0.0
+Run 1, time_steps 1339629
+reward: 0.0
+Run 1, time_steps 1340230
+reward: 0.0
+Run 1, time_steps 1340831
+reward: 0.0
+Run 1, time_steps 1341432
+reward: 0.0
+Run 1, time_steps 1342033
+reward: 0.0
+Run 1, time_steps 1342634
+reward: 0.0
+Run 1, time_steps 1343235
+reward: 0.0
+Run 1, time_steps 1343836
+reward: 0.0
+Run 1, time_steps 1344437
+reward: 0.0
+Run 1, time_steps 1345038
+reward: 0.0
+Run 1, time_steps 1345639
+reward: 0.6
+Run 1, time_steps 1346240
+reward: 0.0
+Run 1, time_steps 1346841
+reward: 0.0
+Run 1, time_steps 1347442
+reward: 0.1
+Run 1, time_steps 1348043
+reward: 0.0
+Run 1, time_steps 1348644
+reward: 0.0
+Run 1, time_steps 1349245
+reward: 0.0
+Run 1, time_steps 1349846
+reward: 0.0
+Run 1, time_steps 1350447
+reward: 0.0
+Run 1, time_steps 1351048
+reward: 0.0
+Run 1, time_steps 1351649
+reward: 0.0
+Run 1, time_steps 1352250
+reward: 0.0
+Run 1, time_steps 1352851
+reward: 0.0
+Run 1, time_steps 1353452
+reward: 0.0
+Run 1, time_steps 1354053
+reward: 0.1
+Run 1, time_steps 1354654
+reward: 0.1
+Run 1, time_steps 1355255
+reward: 0.6
+Run 1, time_steps 1355856
+reward: 0.1
+Run 1, time_steps 1356457
+reward: 0.0
+Run 1, time_steps 1357058
+reward: 0.0
+reward: 0.0
+Run 1, time_steps 1358260
+reward: 0.0
+Run 1, time_steps 1358861
+reward: 0.0
+Run 1, time_steps 1360063
+reward: 0.6
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.6
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.6
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.6
+reward: 0.6
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+reward: 0.0
+Run 1, time_steps 1482066
+reward: 0.0_steps 1482066
+Run 1, time_steps 1485071
+reward: 0.0_steps 1485071
+Run 1, time_steps 1488076
+reward: 0.0_steps 1488076
+Run 1, time_steps 1491081
+reward: 0.0_steps 1491081
+Run 1, time_steps 1494086
+Run 1, time_steps 1495288
+Run 1, time_steps 1496490
+Run 1, time_steps 1498293
+Run 1, time_steps 1499495
+Run 1, time_steps 1501298
+Run 1, time_steps 1502500
+Run 1, time_steps 1504303
+reward: 0.0_steps 1504303
+Run 1, time_steps 1507308
+reward: 0.0_steps 1507308
+Run 1, time_steps 1510313
+reward: 0.0_steps 1510313
+Run 1, time_steps 1513318
+reward: 0.0_steps 1513318
+Run 1, time_steps 1516323
+reward: 0.0_steps 1516323
+Run 1, time_steps 1519328
+reward: 0.0_steps 1519328
+Run 1, time_steps 1522333
+reward: 0.0_steps 1522333
+Run 1, time_steps 1525338
+reward: 0.0_steps 1525338
+Run 1, time_steps 1528343
+reward: 0.0_steps 1528343
+Run 1, time_steps 1531348
+reward: 0.0_steps 1531348
+Run 1, time_steps 1534353
+reward: 0.0_steps 1534353
+Run 1, time_steps 1537358
+reward: 0.0_steps 1537358
+Run 1, time_steps 1540363
+reward: 0.0_steps 1540363
+Run 1, time_steps 1543368
+reward: 0.0_steps 1543368
+Run 1, time_steps 1546373
+reward: 0.0_steps 1546373
+Run 1, time_steps 1549378
+reward: 0.0_steps 1549378
+Run 1, time_steps 1552383
+reward: 0.0_steps 1552383
+Run 1, time_steps 1555388
+reward: 0.0_steps 1555388
+reward: 0.0_steps 1555388
+Run 1, time_steps 1560196
+Run 1, time_steps 1561398
+reward: 0.0_steps 1561398
+Run 1, time_steps 1564403
+reward: 0.0_steps 1564403
+Run 1, time_steps 1567408
+reward: 0.0_steps 1567408
+Run 1, time_steps 1570413
+reward: 0.0_steps 1570413
+Run 1, time_steps 1573418
+reward: 0.0_steps 1573418
+reward: 0.0_steps 1573418
+Run 1, time_steps 1578226
+Run 1, time_steps 1579428
+reward: 0.0_steps 1579428
+Run 1, time_steps 1582433
+Run 1, time_steps 1583635
+reward: 0.0_steps 1583635
+Run 1, time_steps 1586640
+reward: 0.0_steps 1586640
+Run 1, time_steps 1589645
+reward: 0.0_steps 1589645
+Run 1, time_steps 1592650
+reward: 0.0_steps 1592650
+Run 1, time_steps 1595655
+Run 1, time_steps 1596857
+Run 1, time_steps 1598059
+reward: 0.0_steps 1598059
+Run 1, time_steps 1601064
+reward: 0.0_steps 1601064
+Run 1, time_steps 1604069
+Run 1, time_steps 1605872
+Run 1, time_steps 1607074
+Run 1, time_steps 1608877
+Run 1, time_steps 1610079
+reward: 0.0_steps 1610079
+Run 1, time_steps 1613084
+Run 1, time_steps 1614887
+reward: 0.0_steps 1614887
+Run 1, time_steps 1617892
+reward: 0.0_steps 1617892
+Run 1, time_steps 1620897
+reward: 0.0_steps 1620897
+Run 1, time_steps 1623902
+reward: 0.0_steps 1623902
+Run 1, time_steps 1626907
+reward: 0.0_steps 1626907
+Run 1, time_steps 1629912
+Run 1, time_steps 1631715
+Run 1, time_steps 1632917
+reward: 0.0_steps 1632917
+Run 1, time_steps 1635922
+reward: 0.0_steps 1635922
+Run 1, time_steps 1638927
+reward: 0.0_steps 1638927
+reward: 0.0_steps 1638927
+Run 1, time_steps 1643134
+Run 1, time_steps 1644937
+Run 1, time_steps 1646139
+reward: 0.0_steps 1646139
+Run 1, time_steps 1649144
+Run 1, time_steps 1650947
+reward: 0.0_steps 1650947
+Run 1, time_steps 1653952
+Run 1, time_steps 1655154
+reward: 0.0_steps 1655154
+Run 1, time_steps 1658159
+reward: 0.0_steps 1658159
+Run 1, time_steps 1661164
+reward: 0.0_steps 1661164
+Run 1, time_steps 1664169
+reward: 0.0_steps 1664169
+Run 1, time_steps 1667174
+reward: 0.0_steps 1667174
+Run 1, time_steps 1670179
+reward: 0.0_steps 1670179
+Run 1, time_steps 1673184
+reward: 0.0_steps 1673184
+Run 1, time_steps 1676189
+reward: 0.0_steps 1676189
+Run 1, time_steps 1679194
+Run 1, time_steps 1679194
+Run 1, time_steps 1681598
+reward: 0.0_steps 1681598
+Run 1, time_steps 1684603
+reward: 0.0_steps 1684603
+Run 1, time_steps 1687608
+reward: 0.0_steps 1687608
+Run 1, time_steps 1690613
+reward: 0.0_steps 1690613
+Run 1, time_steps 1693618
+Run 1, time_steps 1694820
+reward: 0.0_steps 1694820
+Run 1, time_steps 1697825
+reward: 0.0_steps 1697825
+Run 1, time_steps 1700830
+reward: 0.0_steps 1700830
+Run 1, time_steps 1703835
+reward: 0.0_steps 1703835
+Run 1, time_steps 1706840
+reward: 0.0_steps 1706840
+Run 1, time_steps 1709845
+reward: 0.0_steps 1709845
+Run 1, time_steps 1712850
+reward: 0.0_steps 1712850
+Run 1, time_steps 1715855
+reward: 0.0_steps 1715855
+Run 1, time_steps 1718860
+reward: 0.0_steps 1718860
+Run 1, time_steps 1721865
+reward: 0.0_steps 1721865
+Run 1, time_steps 1724870
+reward: 0.0_steps 1724870
+Run 1, time_steps 1727875
+reward: 0.0_steps 1727875
+Run 1, time_steps 1730880
+reward: 0.0_steps 1730880
+reward: 0.0_steps 1730880
+Run 1, time_steps 1735087
+Run 1, time_steps 1736890
+reward: 0.0_steps 1736890
+Run 1, time_steps 1739895
+Run 1, time_steps 1741097
+reward: 0.0_steps 1741097
+Run 1, time_steps 1744102
+Run 1, time_steps 1745304
+Run 1, time_steps 1747107
+reward: 0.0_steps 1747107
+Run 1, time_steps 1750112
+reward: 0.0_steps 1750112
+reward: 0.0_steps 1750112
+Run 1, time_steps 1754319
+reward: 0.0_steps 1754319
+Run 1, time_steps 1757324
+reward: 0.0_steps 1757324
+Run 1, time_steps 1760329
+reward: 0.0_steps 1760329
+Run 1, time_steps 1763334
+reward: 0.0_steps 1763334
+Run 1, time_steps 1766339
+Run 1, time_steps 1767541
+reward: 0.0_steps 1767541
+Run 1, time_steps 1770546
+reward: 0.0_steps 1770546
+Run 1, time_steps 1773551
+reward: 0.0_steps 1773551
+reward: 0.0_steps 1773551
+Run 1, time_steps 1777758
+reward: 0.0_steps 1777758
+reward: 0.0_steps 1777758
+reward: 0.0_steps 1777758
+Run 1, time_steps 1783768
+reward: 0.0_steps 1783768
+Run 1, time_steps 1786773
+reward: 0.0_steps 1786773
+Run 1, time_steps 1789778
+reward: 0.0_steps 1789778
+Run 1, time_steps 1792783
+reward: 0.0_steps 1792783
+reward: 0.0_steps 1792783
+Run 1, time_steps 1796990
+reward: 0.0_steps 1796990
+Run 1, time_steps 1799995
+Run 1, time_steps 1801197
+reward: 0.0_steps 1801197
+Run 1, time_steps 1804202
+reward: 0.0_steps 1804202
+reward: 0.0_steps 1804202
+Run 1, time_steps 1809010
+reward: 0.0_steps 1809010
+Run 1, time_steps 1812015
+reward: 0.0_steps 1812015
+Run 1, time_steps 1815020
+reward: 0.0_steps 1815020
+Run 1, time_steps 1818025
+reward: 0.0_steps 1818025
+Run 1, time_steps 1821030
+reward: 0.0_steps 1821030
+Run 1, time_steps 1824035
+reward: 0.0_steps 1824035
+Run 1, time_steps 1827040
+reward: 0.0_steps 1827040
+Run 1, time_steps 1830045
+reward: 0.0_steps 1830045
+Run 1, time_steps 1833050
+reward: 0.0_steps 1833050
+Run 1, time_steps 1836055
+reward: 0.0_steps 1836055
+Run 1, time_steps 1839060
+reward: 0.0_steps 1839060
+reward: 0.0_steps 1839060
+Run 1, time_steps 1843267
+Run 1, time_steps 1845070
+Run 1, time_steps 1846272
+reward: 0.0_steps 1846272
+Run 1, time_steps 1849277
+reward: 0.0_steps 1849277
+Run 1, time_steps 1852282
+reward: 0.0_steps 1852282
+Run 1, time_steps 1855287
+reward: 0.0_steps 1855287
+Run 1, time_steps 1858292
+reward: 0.0_steps 1858292
+Run 1, time_steps 1861297
+reward: 0.0_steps 1861297
+Run 1, time_steps 1864302
+Run 1, time_steps 1865504
+reward: 0.0_steps 1865504
+reward: 0.0_steps 1865504
+Run 1, time_steps 1869711
+reward: 0.0_steps 1869711
+Run 1, time_steps 1872716
+Run 1, time_steps 1874519
+Run 1, time_steps 1875721
+reward: 0.0_steps 1875721
+Run 1, time_steps 1878726
+reward: 0.0_steps 1878726
+Run 1, time_steps 1881731
+reward: 0.0_steps 1881731
+Run 1, time_steps 1884736
+reward: 0.0_steps 1884736
+Run 1, time_steps 1887741
+reward: 0.0_steps 1887741
+Run 1, time_steps 1890746
+reward: 0.0_steps 1890746
+Run 1, time_steps 1893751
+Run 1, time_steps 1894953
+reward: 0.0_steps 1894953
+reward: 0.0_steps 1894953
+Run 1, time_steps 1899761
+Run 1, time_steps 1900963
+reward: 0.0_steps 1900963
+reward: 0.0_steps 1900963
+Run 1, time_steps 1905771
+reward: 0.0_steps 1905771
+Run 1, time_steps 1908776
+reward: 0.0_steps 1908776
+Run 1, time_steps 1911781
+reward: 0.0_steps 1911781
+Run 1, time_steps 1914786
+reward: 0.0_steps 1914786
+Run 1, time_steps 1917791
+Run 1, time_steps 1918993
+reward: 0.0_steps 1918993
+Run 1, time_steps 1921998
+reward: 0.0_steps 1921998
+Run 1, time_steps 1925003
+reward: 0.0_steps 1925003
+Run 1, time_steps 1928008
+reward: 0.0_steps 1928008
+Run 1, time_steps 1931013
+reward: 0.0_steps 1931013
+Run 1, time_steps 1934018
+reward: 0.0_steps 1934018
+Run 1, time_steps 1937023
+reward: 0.0_steps 1937023
+Run 1, time_steps 1940028
+Run 1, time_steps 1941230
+Run 1, time_steps 1943033
+Run 1, time_steps 1944235
+reward: 0.0_steps 1944235
+Run 1, time_steps 1947240
+reward: 0.0_steps 1947240
+reward: 0.0_steps 1947240
+reward: 0.0_steps 1947240
+reward: 0.0_steps 1947240
+Run 1, time_steps 1953851
+reward: 0.0_steps 1953851
+Run 1, time_steps 1956856
+reward: 0.0_steps 1956856
+Run 1, time_steps 1959861
+reward: 0.0_steps 1959861
+Run 1, time_steps 1962866
+Run 1, time_steps 1964669
+Run 1, time_steps 1965871
+reward: 0.0_steps 1965871
+Run 1, time_steps 1968876
+reward: 0.0_steps 1968876
+reward: 0.0_steps 1968876
+Run 1, time_steps 1973083
+Run 1, time_steps 1974285
+reward: 0.0_steps 1974285
+Run 1, time_steps 1977290
+Run 1, time_steps 1979093
+reward: 0.0_steps 1979093
+Run 1, time_steps 1982098
+Run 1, time_steps 1983300
+reward: 0.0_steps 1983300
+Run 1, time_steps 1986305
+reward: 0.0_steps 1986305
+Run 1, time_steps 1989310
+reward: 0.0_steps 1989310
+Run 1, time_steps 1992315
+Run 1, time_steps 1993517
+reward: 0.0_steps 1993517
+Run 1, time_steps 1996522
+Run 1, time_steps 1998325
+Run 1, time_steps 1999527
+Run 1, time_steps 1999527
+Run 1, time_steps 1999527
+Traceback (most recent call last):
+  File "/alpha/MARL-Algorithms/run_qmix.py", line 49, in <module>
+    runner.run(1)
+  File "/alpha/MARL-Algorithms/runner.py", line 64, in run
+    episode_reward = self.evaluate()
+  File "/alpha/MARL-Algorithms/runner.py", line 71, in evaluate
+    _, episode_reward,  _ = self.rolloutWorker.generate_episode(epoch, evaluate=True)
+  File "/home/wanghm/anaconda3/envs/hsp/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/alpha/MARL-Algorithms/common/rollout.py", line 93, in generate_episode
+    wandb.log({'episode_reward': episode_reward, 'step': time_steps+601})
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'int'

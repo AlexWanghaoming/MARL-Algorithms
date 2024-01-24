@@ -1,0 +1,589 @@
+Init alg QMIX
+Init RolloutWorker
+Run 1, time_steps 0
+reward: 1.2
+Run 1, time_steps 601
+reward: 27.400000000000002
+Run 1, time_steps 1202
+reward: 1.2
+Run 1, time_steps 1803
+reward: 1.8
+Run 1, time_steps 2404
+reward: 1.2
+Run 1, time_steps 3005
+reward: 87.4
+Run 1, time_steps 3606
+reward: 0.6
+Run 1, time_steps 4207
+reward: 58.1
+Run 1, time_steps 4808
+reward: 1.8
+Run 1, time_steps 5409
+reward: 87.39999999999999
+Run 1, time_steps 6010
+reward: 1.8
+Run 1, time_steps 6611
+reward: 122.4
+Run 1, time_steps 7212
+reward: 1.2
+Run 1, time_steps 7813
+reward: 92.4
+Run 1, time_steps 8414
+reward: 56.800000000000004
+Run 1, time_steps 9015
+reward: 11.8
+Run 1, time_steps 9616
+reward: 1.2
+Run 1, time_steps 10217
+reward: 0.6
+Run 1, time_steps 10818
+reward: 106.8
+Run 1, time_steps 11419
+reward: 1.8
+Run 1, time_steps 12020
+reward: 187.4
+Run 1, time_steps 12621
+reward: 0.6
+Run 1, time_steps 13222
+reward: 2.4000000000000004
+Run 1, time_steps 13823
+reward: 1.2
+Run 1, time_steps 14424
+reward: 1.8
+Run 1, time_steps 15025
+reward: 1.8
+Run 1, time_steps 15626
+reward: 1.7999999999999998
+Run 1, time_steps 16227
+reward: 1.2
+Run 1, time_steps 16828
+reward: 1.2
+Run 1, time_steps 17429
+reward: 1.8
+Run 1, time_steps 18030
+reward: 16.8
+Run 1, time_steps 18631
+reward: 37.4
+Run 1, time_steps 19232
+reward: 1.2
+Run 1, time_steps 19833
+reward: 1.8
+Run 1, time_steps 20434
+reward: 56.2
+Run 1, time_steps 21035
+reward: 1.2
+Run 1, time_steps 21636
+reward: 0.6
+Run 1, time_steps 22237
+reward: 2.4000000000000004
+Run 1, time_steps 22838
+reward: 1.2
+Run 1, time_steps 23439
+reward: 22.4
+Run 1, time_steps 24040
+reward: 1.8
+Run 1, time_steps 24641
+reward: 67.39999999999999
+Run 1, time_steps 25242
+reward: 1.8
+Run 1, time_steps 25843
+reward: 16.2
+Run 1, time_steps 26444
+reward: 27.400000000000002
+Run 1, time_steps 27045
+reward: 1.2
+Run 1, time_steps 27646
+reward: 36.800000000000004
+Run 1, time_steps 28247
+reward: 1.2
+Run 1, time_steps 28848
+reward: 96.8
+Run 1, time_steps 29449
+reward: 2.4000000000000004
+Run 1, time_steps 30050
+reward: 1.3
+Run 1, time_steps 30651
+reward: 1.8
+Run 1, time_steps 31252
+reward: 0.6
+Run 1, time_steps 31853
+reward: 2.4000000000000004
+Run 1, time_steps 32454
+reward: 1.8
+Run 1, time_steps 33055
+reward: 1.8
+Run 1, time_steps 33656
+reward: 1.8
+Run 1, time_steps 34257
+reward: 2.4000000000000004
+Run 1, time_steps 34858
+reward: 1.8
+Run 1, time_steps 35459
+reward: 74.19999999999999
+Run 1, time_steps 36060
+reward: 1.2
+Run 1, time_steps 36661
+reward: 76.8
+Run 1, time_steps 37262
+reward: 11.8
+Run 1, time_steps 37863
+reward: 3.0000000000000004
+Run 1, time_steps 38464
+reward: 1.9000000000000001
+Run 1, time_steps 39065
+reward: 58.0
+Run 1, time_steps 39666
+reward: 3.0000000000000004
+Run 1, time_steps 40267
+reward: 1.8
+Run 1, time_steps 40868
+reward: 98.0
+Run 1, time_steps 41469
+reward: 2.4000000000000004
+Run 1, time_steps 42070
+reward: 1.8
+Run 1, time_steps 42671
+reward: 17.400000000000002
+Run 1, time_steps 43272
+reward: 1.2
+Run 1, time_steps 43873
+reward: 47.4
+Run 1, time_steps 44474
+reward: 1.8
+Run 1, time_steps 45075
+reward: 16.8
+Run 1, time_steps 45676
+reward: 37.4
+Run 1, time_steps 46277
+reward: 0.6
+Run 1, time_steps 46878
+reward: 2.4000000000000004
+Run 1, time_steps 47479
+reward: 38.6
+Run 1, time_steps 48080
+reward: 1.8
+Run 1, time_steps 48681
+reward: 3.6000000000000005
+Run 1, time_steps 49282
+reward: 2.4000000000000004
+Run 1, time_steps 49883
+reward: 1.2
+Run 1, time_steps 50484
+reward: 68.0
+Run 1, time_steps 51085
+reward: 1.8
+Run 1, time_steps 51686
+reward: 1.2
+Run 1, time_steps 52287
+reward: 1.2
+Run 1, time_steps 52888
+reward: 2.4000000000000004
+Run 1, time_steps 53489
+reward: 1.8
+Run 1, time_steps 54090
+reward: 17.400000000000002
+Run 1, time_steps 54691
+reward: 0.6
+Run 1, time_steps 55292
+reward: 1.8
+Run 1, time_steps 55893
+reward: 1.8
+Run 1, time_steps 56494
+reward: 3.0000000000000004
+Run 1, time_steps 57095
+reward: 36.900000000000006
+Run 1, time_steps 57696
+reward: 1.8
+Run 1, time_steps 58297
+reward: 2.4000000000000004
+Run 1, time_steps 58898
+reward: 1.2
+Run 1, time_steps 59499
+reward: 48.0
+Run 1, time_steps 60100
+reward: 1.8
+Run 1, time_steps 60701
+reward: 2.4000000000000004
+Run 1, time_steps 61302
+reward: 1.8
+Run 1, time_steps 61903
+reward: 1.8
+Run 1, time_steps 62504
+reward: 28.0
+Run 1, time_steps 63105
+reward: 26.8
+Run 1, time_steps 63706
+reward: 0.6
+Run 1, time_steps 64307
+reward: 2.4000000000000004
+Run 1, time_steps 64908
+reward: 1.8
+Run 1, time_steps 65509
+reward: 18.000000000000004
+Run 1, time_steps 66110
+reward: 1.3
+Run 1, time_steps 66711
+reward: 1.8
+Run 1, time_steps 67312
+reward: 37.400000000000006
+Run 1, time_steps 67913
+reward: 2.4000000000000004
+Run 1, time_steps 68514
+reward: 1.8
+Run 1, time_steps 69115
+reward: 1.8
+Run 1, time_steps 69716
+reward: 1.2
+Run 1, time_steps 70317
+reward: 1.2
+Run 1, time_steps 70918
+reward: 0.7
+Run 1, time_steps 71519
+reward: 2.4000000000000004
+Run 1, time_steps 72120
+reward: 1.2
+Run 1, time_steps 72721
+reward: 1.8
+Run 1, time_steps 73322
+reward: 2.4000000000000004
+Run 1, time_steps 73923
+reward: 16.8
+Run 1, time_steps 74524
+reward: 0.6
+Run 1, time_steps 75125
+reward: 1.2
+Run 1, time_steps 75726
+reward: 0.6
+Run 1, time_steps 76327
+reward: 1.2
+Run 1, time_steps 76928
+reward: 1.8
+Run 1, time_steps 77529
+reward: 0.6
+Run 1, time_steps 78130
+reward: 0.6
+Run 1, time_steps 78731
+reward: 1.8
+Run 1, time_steps 79332
+reward: 1.2
+Run 1, time_steps 79933
+reward: 1.2
+Run 1, time_steps 80534
+reward: 2.4000000000000004
+Run 1, time_steps 81135
+reward: 16.8
+Run 1, time_steps 81736
+reward: 1.8
+Run 1, time_steps 82337
+reward: 0.6
+Run 1, time_steps 82938
+reward: 1.8
+Run 1, time_steps 83539
+reward: 2.4000000000000004
+Run 1, time_steps 84140
+reward: 1.8
+Run 1, time_steps 84741
+reward: 0.6
+Run 1, time_steps 85342
+reward: 0.6
+Run 1, time_steps 85943
+reward: 18.0
+Run 1, time_steps 86544
+reward: 1.2
+Run 1, time_steps 87145
+reward: 18.000000000000004
+Run 1, time_steps 87746
+reward: 0.6
+Run 1, time_steps 88347
+reward: 0.6
+Run 1, time_steps 88948
+reward: 0.7
+Run 1, time_steps 89549
+reward: 0.6
+Run 1, time_steps 90150
+reward: 1.2
+Run 1, time_steps 90751
+reward: 0.6
+Run 1, time_steps 91352
+reward: 0.6
+Run 1, time_steps 91953
+reward: 1.8
+Run 1, time_steps 92554
+reward: 0.6
+Run 1, time_steps 93155
+reward: 1.2
+Run 1, time_steps 93756
+reward: 1.2
+Run 1, time_steps 94357
+reward: 1.2
+Run 1, time_steps 94958
+reward: 0.6
+Run 1, time_steps 95559
+reward: 0.6
+Run 1, time_steps 96160
+reward: 2.4000000000000004
+Run 1, time_steps 96761
+reward: 1.2
+Run 1, time_steps 97362
+reward: 0.6
+Run 1, time_steps 97963
+reward: 1.2
+Run 1, time_steps 98564
+reward: 0.6
+Run 1, time_steps 99165
+reward: 1.2
+Run 1, time_steps 99766
+reward: 0.6
+Run 1, time_steps 100367
+reward: 1.2
+Run 1, time_steps 100968
+reward: 0.6
+Run 1, time_steps 101569
+reward: 0.6
+Run 1, time_steps 102170
+reward: 0.6
+Run 1, time_steps 102771
+reward: 1.2
+Run 1, time_steps 103372
+reward: 0.6
+Run 1, time_steps 103973
+reward: 0.6
+Run 1, time_steps 104574
+reward: 1.2
+Run 1, time_steps 105175
+reward: 1.2
+Run 1, time_steps 105776
+reward: 0.6
+Run 1, time_steps 106377
+reward: 1.2
+Run 1, time_steps 106978
+reward: 1.2
+Run 1, time_steps 107579
+reward: 0.6
+Run 1, time_steps 108180
+reward: 1.2
+Run 1, time_steps 108781
+reward: 0.6
+Run 1, time_steps 109382
+reward: 1.2
+Run 1, time_steps 109983
+reward: 0.6
+Run 1, time_steps 110584
+reward: 0.6
+Run 1, time_steps 111185
+reward: 1.2
+Run 1, time_steps 111786
+reward: 0.6
+Run 1, time_steps 112387
+reward: 0.6
+Run 1, time_steps 112988
+reward: 1.8
+Run 1, time_steps 113589
+reward: 0.6
+Run 1, time_steps 114190
+reward: 0.6
+Run 1, time_steps 114791
+reward: 1.3
+Run 1, time_steps 115392
+reward: 0.6
+Run 1, time_steps 115993
+reward: 2.4000000000000004
+Run 1, time_steps 116594
+reward: 1.2
+Run 1, time_steps 117195
+reward: 1.2
+Run 1, time_steps 117796
+reward: 1.2
+Run 1, time_steps 118397
+reward: 1.8
+Run 1, time_steps 118998
+reward: 1.2
+Run 1, time_steps 119599
+reward: 1.2
+Run 1, time_steps 120200
+reward: 1.2
+Run 1, time_steps 120801
+reward: 1.8
+Run 1, time_steps 121402
+reward: 1.2
+Run 1, time_steps 122003
+reward: 1.2
+Run 1, time_steps 122604
+reward: 0.6
+Run 1, time_steps 123205
+reward: 0.6
+Run 1, time_steps 123806
+reward: 0.6
+Run 1, time_steps 124407
+reward: 0.6
+Run 1, time_steps 125008
+reward: 0.6
+Run 1, time_steps 125609
+reward: 0.6
+Run 1, time_steps 126210
+reward: 0.6
+Run 1, time_steps 126811
+reward: 0.0
+Run 1, time_steps 127412
+reward: 0.6
+Run 1, time_steps 128013
+reward: 0.0
+Run 1, time_steps 128614
+reward: 0.6
+Run 1, time_steps 129215
+reward: 0.6
+Run 1, time_steps 129816
+reward: 0.6
+Run 1, time_steps 130417
+reward: 0.6
+Run 1, time_steps 131018
+reward: 0.6
+Run 1, time_steps 131619
+reward: 0.6
+Run 1, time_steps 132220
+reward: 0.6
+Run 1, time_steps 132821
+reward: 0.0
+Run 1, time_steps 133422
+reward: 0.6
+Run 1, time_steps 134023
+reward: 0.7
+Run 1, time_steps 134624
+reward: 0.6
+Run 1, time_steps 135225
+reward: 0.6
+Run 1, time_steps 135826
+reward: 0.6
+Run 1, time_steps 136427
+reward: 0.6
+Run 1, time_steps 137028
+reward: 0.0
+Run 1, time_steps 137629
+reward: 0.6
+Run 1, time_steps 138230
+reward: 0.6
+Run 1, time_steps 138831
+reward: 0.6
+Run 1, time_steps 139432
+reward: 0.0
+Run 1, time_steps 140033
+reward: 0.6
+Run 1, time_steps 140634
+reward: 0.0
+Run 1, time_steps 141235
+reward: 0.6
+Run 1, time_steps 141836
+reward: 0.0
+Run 1, time_steps 142437
+reward: 0.6
+Run 1, time_steps 143038
+reward: 0.6
+Run 1, time_steps 143639
+reward: 0.6
+Run 1, time_steps 144240
+reward: 0.0
+Run 1, time_steps 144841
+reward: 0.6
+Run 1, time_steps 145442
+reward: 0.0
+Run 1, time_steps 146043
+reward: 0.6
+Run 1, time_steps 146644
+reward: 0.6
+Run 1, time_steps 147245
+reward: 1.2
+Run 1, time_steps 147846
+reward: 0.0
+Run 1, time_steps 148447
+reward: 0.6
+Run 1, time_steps 149048
+reward: 0.7
+Run 1, time_steps 149649
+reward: 0.6
+Run 1, time_steps 150250
+reward: 0.6
+Run 1, time_steps 150851
+reward: 0.6
+Run 1, time_steps 151452
+reward: 0.6
+Run 1, time_steps 152053
+reward: 0.0
+Run 1, time_steps 152654
+reward: 0.6
+Run 1, time_steps 153255
+reward: 0.6
+Run 1, time_steps 153856
+reward: 0.6
+Run 1, time_steps 154457
+reward: 1.2
+Run 1, time_steps 155058
+reward: 0.6
+Run 1, time_steps 155659
+reward: 0.6
+Run 1, time_steps 156260
+reward: 0.0
+Run 1, time_steps 156861
+reward: 0.6
+Run 1, time_steps 157462
+reward: 0.6
+Run 1, time_steps 158063
+reward: 0.6
+Run 1, time_steps 158664
+reward: 0.6
+Run 1, time_steps 159265
+reward: 0.6
+Run 1, time_steps 159866
+reward: 0.6
+Run 1, time_steps 160467
+reward: 0.6
+Run 1, time_steps 161068
+reward: 0.6
+Run 1, time_steps 161669
+reward: 0.0
+Run 1, time_steps 162270
+reward: 0.6
+Run 1, time_steps 162871
+reward: 0.6
+Run 1, time_steps 163472
+reward: 0.6
+Run 1, time_steps 164073
+reward: 0.6
+Run 1, time_steps 164674
+reward: 0.6
+Run 1, time_steps 165275
+reward: 0.6
+Run 1, time_steps 165876
+reward: 0.0
+Run 1, time_steps 166477
+reward: 0.6
+Run 1, time_steps 167078
+reward: 0.6
+Run 1, time_steps 167679
+reward: 0.6
+Run 1, time_steps 168280
+reward: 0.6
+Run 1, time_steps 168881
+reward: 0.0
+Traceback (most recent call last):
+  File "/alpha/MARL-Algorithms/run_qmix3.py", line 49, in <module>
+    runner.run(1)
+  File "/alpha/MARL-Algorithms/runner.py", line 62, in run
+    self.agents.train(mini_batch, train_steps, time_steps)
+  File "/alpha/MARL-Algorithms/agent/agent.py", line 125, in train
+    self.policy.learn(batch, max_episode_len, train_step, timesteps, epsilon)
+  File "/alpha/MARL-Algorithms/policy/qmix.py", line 80, in learn
+    q_evals, q_targets = self.get_q_values(batch, max_episode_len)
+  File "/alpha/MARL-Algorithms/policy/qmix.py", line 158, in get_q_values
+    q_target, self.target_hidden = self.target_rnn(inputs_next, self.target_hidden)
+  File "/home/wanghm/anaconda3/envs/hsp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/alpha/MARL-Algorithms/network/base_net.py", line 30, in forward
+    x = self.fc1(obs)
+  File "/home/wanghm/anaconda3/envs/hsp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/wanghm/anaconda3/envs/hsp/lib/python3.7/site-packages/torch/nn/modules/container.py", line 204, in forward
+    input = module(input)
+  File "/home/wanghm/anaconda3/envs/hsp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/wanghm/anaconda3/envs/hsp/lib/python3.7/site-packages/torch/nn/modules/linear.py", line 114, in forward
+    return F.linear(input, self.weight, self.bias)

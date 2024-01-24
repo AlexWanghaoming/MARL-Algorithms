@@ -2,7 +2,7 @@ import torch
 import os
 from network.base_net import RNN
 from network.qmix_net import QMixNet
-
+import wandb
 
 class QMIX:
     def __init__(self, args):
@@ -17,9 +17,9 @@ class QMIX:
         if args.reuse_network:
             input_shape += self.n_agents
 
-        # 神经网络
         self.eval_rnn = RNN(input_shape, args)  # 每个agent选动作的网络
         self.target_rnn = RNN(input_shape, args)
+
         self.eval_qmix_net = QMixNet(args)  # 把agentsQ值加起来的网络
         self.target_qmix_net = QMixNet(args)
         self.args = args
@@ -48,6 +48,8 @@ class QMIX:
         self.eval_parameters = list(self.eval_qmix_net.parameters()) + list(self.eval_rnn.parameters())
         if args.optimizer == "RMS":
             self.optimizer = torch.optim.RMSprop(self.eval_parameters, lr=args.lr)
+        elif args.optimizer == "adam":
+            self.optimizer = torch.optim.Adam(self.eval_parameters, lr=args.lr, eps=1e-5, weight_decay=0.0)
 
         # 执行过程中，要为每个agent都维护一个eval_hidden
         # 学习过程中，要为每个episode的每个agent都维护一个eval_hidden、target_hidden
@@ -55,7 +57,7 @@ class QMIX:
         self.target_hidden = None
         print('Init alg QMIX')
 
-    def learn(self, batch, max_episode_len, train_step, epsilon=None):  # train_step表示是第几次学习，用来控制更新target_net网络的参数
+    def learn(self, batch, max_episode_len, train_step, timesteps, epsilon=None):  # train_step表示是第几次学习，用来控制更新target_net网络的参数
         '''
         在learn的时候，抽取到的数据是四维的，四个维度分别为 1——第几个episode 2——episode中第几个transition
         3——第几个agent的数据 4——具体obs维度。因为在选动作时不仅需要输入当前的inputs，还要给神经网络输入hidden_state，
@@ -100,6 +102,11 @@ class QMIX:
 
         # 不能直接用mean，因为还有许多经验是没用的，所以要求和再比真实的经验数，才是真正的均值
         loss = (masked_td_error ** 2).sum() / mask.sum()
+        if self.args.use_wandb:
+            wandb.log({'loss': loss.item(),
+                       'q_total_mean': (q_total_eval * mask).sum().item() / mask.sum().item() * self.args.n_agents, # 经过mix网络后的 q_total / 智能体总数
+                       'target_total_mean': (targets * mask).sum().item() / mask.sum().item() * self.args.n_agents,
+                       'step': timesteps})
         self.optimizer.zero_grad()
         loss.backward()
         torch.nn.utils.clip_grad_norm_(self.eval_parameters, self.args.grad_norm_clip)
