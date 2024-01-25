@@ -34,7 +34,7 @@ if __name__ == '__main__':
         os.makedirs(str(run_dir))
 
     if args.use_wandb:
-        wandb_name = f'QMIX_{args.map}_{args.seed}'
+        wandb_name = f'qmix_{args.map}_{args.seed}'
         run = wandb.init(config=args,
                          project='overcooked_qmix',
                          name=wandb_name,

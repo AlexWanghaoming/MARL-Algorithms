@@ -83,8 +83,8 @@ class RolloutWorker:
             step += 1
             if self.args.epsilon_anneal_scale == 'step':
                 epsilon = epsilon - self.anneal_epsilon if epsilon > self.min_epsilon else epsilon
-        print('reward:', episode_reward)
-        if self.args.use_wandb:
+        # print('reward:', episode_reward)
+        if self.args.use_wandb and not evaluate:
             wandb.log({'episode_reward': episode_reward, 'step': time_steps + step})
         # last obs
         obs = self.env.get_obs()

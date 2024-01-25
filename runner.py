@@ -34,13 +34,14 @@ class Runner:
         time_steps, train_steps, evaluate_steps = 0, 0, -1
         while time_steps < self.args.n_steps:
             print('Run {}, time_steps {}'.format(num, time_steps))
-            # if time_steps // self.args.evaluate_cycle > evaluate_steps:
-            #     episode_reward = self.evaluate()
-            #     print(f'Timesteps {time_steps}, eval episode reward: {episode_reward}')
-            #     self.episode_rewards.append(episode_reward)
-            #     self.plt(num)
-            #     evaluate_steps += 1
-
+            if time_steps // self.args.evaluate_cycle > evaluate_steps:
+                win_rate, episode_reward = self.evaluate()
+                self.win_rates.append(win_rate)
+                print('win_rate is ', win_rate)
+                # print(f'Timesteps {time_steps}, eval episode reward: {episode_reward}')
+                self.episode_rewards.append(episode_reward)
+                self.plt(num)
+                evaluate_steps += 1
             episodes = []
             # 收集self.args.n_episodes个episodes训练一次网络
             for episode_idx in range(self.args.n_episodes):  # args.n_episodes = 1
@@ -65,6 +66,8 @@ class Runner:
                     mini_batch = self.buffer.sample(min(self.buffer.current_size, self.args.batch_size))
                     self.agents.train(mini_batch, train_steps, time_steps)
                     train_steps += 1
+
+        # 训练结束后再evaluate一次
         win_rate, episode_reward = self.evaluate()
         print('win_rate is ', win_rate)
         self.win_rates.append(win_rate)
@@ -77,7 +80,6 @@ class Runner:
         for epoch in range(self.args.evaluate_epoch):
             _, episode_reward, win_tag,  _ = self.rolloutWorker.generate_episode(epoch, evaluate=True)
             episode_rewards += episode_reward
-
             if win_tag:
                 win_number += 1
         return win_number / self.args.evaluate_epoch, episode_rewards / self.args.evaluate_epoch
